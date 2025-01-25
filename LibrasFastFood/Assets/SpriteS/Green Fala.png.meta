@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: c56780c2441980843aa68e387a7910e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2057146268210236168
+    second: Green Fala_0
+  - first:
+      213: 1437857576047208895
+    second: Green Fala_1
+  - first:
+      213: 5358358031042987346
+    second: Green Fala_2
+  - first:
+      213: 1639481272112128205
+    second: Green Fala_3
+  - first:
+      213: 1012604717025189956
+    second: Green Fala_4
+  - first:
+      213: -3859661409619574484
+    second: Green Fala_5
+  - first:
+      213: 2297942742433021014
+    second: Green Fala_6
+  - first:
+      213: 5523417423366077819
+    second: Green Fala_7
+  - first:
+      213: -7869422758301798950
+    second: Green Fala_8
+  - first:
+      213: -9082575581102361436
+    second: Green Fala_9
+  - first:
+      213: 8449882229816553336
+    second: Green Fala_10
+  - first:
+      213: -8444508014815108921
+    second: Green Fala_11
+  - first:
+      213: -8576852047214515903
+    second: Green Fala_12
+  - first:
+      213: -844567415871005387
+    second: Green Fala_13
+  - first:
+      213: 8734385083450867502
+    second: Green Fala_14
+  - first:
+      213: 2006593446075161918
+    second: Green Fala_15
+  - first:
+      213: -8078083609194393326
+    second: Green Fala_16
+  - first:
+      213: 6756003618815492027
+    second: Green Fala_17
+  - first:
+      213: -5779443530956226273
+    second: Green Fala_18
+  - first:
+      213: -5965042529153940583
+    second: Green Fala_19
+  - first:
+      213: 8060505888238718631
+    second: Green Fala_20
+  - first:
+      213: -1921206785319560400
+    second: Green Fala_21
+  - first:
+      213: -5450840341618814925
+    second: Green Fala_22
+  - first:
+      213: -16256190813414215
+    second: Green Fala_23
+  - first:
+      213: 7887177536125094318
+    second: Green Fala_24
+  - first:
+      213: -3746915628137879091
+    second: Green Fala_25
+  - first:
+      213: 1945180680793570856
+    second: Green Fala_26
+  - first:
+      213: -4418603910701716558
+    second: Green Fala_27
+  - first:
+      213: -3160216332456300726
+    second: Green Fala_28
+  - first:
+      213: -5036860602950870248
+    second: Green Fala_29
+  - first:
+      213: -1586425450459668329
+    second: Green Fala_30
+  - first:
+      213: -7872640269446535909
+    second: Green Fala_31
+  - first:
+      213: -7944538196181879168
+    second: Green Fala_32
+  - first:
+      213: -3442917748169631846
+    second: Green Fala_33
+  - first:
+      213: 7468315061150887398
+    second: Green Fala_34
+  - first:
+      213: -9193537621829392097
+    second: Green Fala_35
+  - first:
+      213: 9091864615117485916
+    second: Green Fala_36
+  - first:
+      213: 188770793272395715
+    second: Green Fala_37
+  - first:
+      213: 6056339292902620330
+    second: Green Fala_38
+  - first:
+      213: -1466284657953642127
+    second: Green Fala_39
+  - first:
+      213: -1086726513042791865
+    second: Green Fala_40
+  - first:
+      213: 6470183330793392957
+    second: Green Fala_41
+  - first:
+      213: 9057319048015952061
+    second: Green Fala_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pedindo instance 10000
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2555
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10001
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2555
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10002
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 2555
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10003
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 2555
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10004
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 2555
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10005
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 2555
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10006
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1906
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10007
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1906
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10008
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1906
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10009
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1906
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10010
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 1906
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10011
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 1906
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10012
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1257
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10013
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1257
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10014
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1257
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10015
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1257
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10016
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 1257
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10017
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 1257
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10018
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 608
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10019
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 608
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10020
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 608
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10021
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 608
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10022
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 608
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10023
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 608
+        width: 570
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Fala_0: -2057146268210236168
+      Green Fala_1: 1437857576047208895
+      Green Fala_10: 8449882229816553336
+      Green Fala_11: -8444508014815108921
+      Green Fala_12: -8576852047214515903
+      Green Fala_13: -844567415871005387
+      Green Fala_14: 8734385083450867502
+      Green Fala_15: 2006593446075161918
+      Green Fala_16: -8078083609194393326
+      Green Fala_17: 6756003618815492027
+      Green Fala_18: -5779443530956226273
+      Green Fala_19: -5965042529153940583
+      Green Fala_2: 5358358031042987346
+      Green Fala_20: 8060505888238718631
+      Green Fala_21: -1921206785319560400
+      Green Fala_22: -5450840341618814925
+      Green Fala_23: -16256190813414215
+      Green Fala_24: 7887177536125094318
+      Green Fala_25: -3746915628137879091
+      Green Fala_26: 1945180680793570856
+      Green Fala_27: -4418603910701716558
+      Green Fala_28: -3160216332456300726
+      Green Fala_29: -5036860602950870248
+      Green Fala_3: 1639481272112128205
+      Green Fala_30: -1586425450459668329
+      Green Fala_31: -7872640269446535909
+      Green Fala_32: -7944538196181879168
+      Green Fala_33: -3442917748169631846
+      Green Fala_34: 7468315061150887398
+      Green Fala_35: -9193537621829392097
+      Green Fala_36: 9091864615117485916
+      Green Fala_37: 188770793272395715
+      Green Fala_38: 6056339292902620330
+      Green Fala_39: -1466284657953642127
+      Green Fala_4: 1012604717025189956
+      Green Fala_40: -1086726513042791865
+      Green Fala_41: 6470183330793392957
+      Green Fala_42: 9057319048015952061
+      Green Fala_5: -3859661409619574484
+      Green Fala_6: 2297942742433021014
+      Green Fala_7: 5523417423366077819
+      Green Fala_8: -7869422758301798950
+      Green Fala_9: -9082575581102361436
+      pedindo instance 10000: 0
+      pedindo instance 10001: 0
+      pedindo instance 10002: 0
+      pedindo instance 10003: 0
+      pedindo instance 10004: 0
+      pedindo instance 10005: 0
+      pedindo instance 10006: 0
+      pedindo instance 10007: 0
+      pedindo instance 10008: 0
+      pedindo instance 10009: 0
+      pedindo instance 10010: 0
+      pedindo instance 10011: 0
+      pedindo instance 10012: 0
+      pedindo instance 10013: 0
+      pedindo instance 10014: 0
+      pedindo instance 10015: 0
+      pedindo instance 10016: 0
+      pedindo instance 10017: 0
+      pedindo instance 10018: 0
+      pedindo instance 10019: 0
+      pedindo instance 10020: 0
+      pedindo instance 10021: 0
+      pedindo instance 10022: 0
+      pedindo instance 10023: 0
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

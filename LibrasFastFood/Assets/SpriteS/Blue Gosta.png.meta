@@ -1,0 +1,1745 @@
+fileFormatVersion: 2
+guid: 66a4683e5a0c4244182f300dab7bfdcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6902084572961998150
+    second: Blue Gosta_0
+  - first:
+      213: 7420687041221872822
+    second: Blue Gosta_1
+  - first:
+      213: 3863343812039595475
+    second: Blue Gosta_2
+  - first:
+      213: -7733886960957459250
+    second: Blue Gosta_3
+  - first:
+      213: -6311994146391182664
+    second: Blue Gosta_4
+  - first:
+      213: 51180872650940694
+    second: Blue Gosta_5
+  - first:
+      213: 8009666830463683243
+    second: Blue Gosta_6
+  - first:
+      213: -3214097165795164980
+    second: Blue Gosta_7
+  - first:
+      213: -8213480779364705653
+    second: Blue Gosta_8
+  - first:
+      213: 8168251097851378460
+    second: Blue Gosta_9
+  - first:
+      213: -385376439585832291
+    second: Blue Gosta_10
+  - first:
+      213: 5153930427346434462
+    second: Blue Gosta_11
+  - first:
+      213: -3123814775960949066
+    second: Blue Gosta_12
+  - first:
+      213: -1271088465613548938
+    second: Blue Gosta_13
+  - first:
+      213: -5719095047168875373
+    second: Blue Gosta_14
+  - first:
+      213: -3925027468753855823
+    second: Blue Gosta_15
+  - first:
+      213: -4324904652382430460
+    second: Blue Gosta_16
+  - first:
+      213: -946113649836466316
+    second: Blue Gosta_17
+  - first:
+      213: 7800524790440906632
+    second: Blue Gosta_18
+  - first:
+      213: -2974216102359325638
+    second: Blue Gosta_19
+  - first:
+      213: 702391257519247218
+    second: Blue Gosta_20
+  - first:
+      213: -2345090373884747498
+    second: Blue Gosta_21
+  - first:
+      213: -7641976842288104575
+    second: Blue Gosta_22
+  - first:
+      213: 4965810957558039894
+    second: Blue Gosta_23
+  - first:
+      213: -7970467906368872561
+    second: Blue Gosta_24
+  - first:
+      213: 6183030792727961208
+    second: Blue Gosta_25
+  - first:
+      213: -1768460658783118254
+    second: Blue Gosta_26
+  - first:
+      213: -1615217388116246736
+    second: Blue Gosta_27
+  - first:
+      213: 8372378310554659422
+    second: Blue Gosta_28
+  - first:
+      213: 7412934445892293787
+    second: Blue Gosta_29
+  - first:
+      213: 2178420603724850103
+    second: Blue Gosta_30
+  - first:
+      213: -1045687370301439624
+    second: Blue Gosta_31
+  - first:
+      213: -7570178438583392779
+    second: Blue Gosta_32
+  - first:
+      213: 268770980848389696
+    second: Blue Gosta_33
+  - first:
+      213: 7956776102286389395
+    second: Blue Gosta_34
+  - first:
+      213: -6028110701833623632
+    second: Blue Gosta_35
+  - first:
+      213: 8983070043913774911
+    second: Blue Gosta_36
+  - first:
+      213: -4494548249437801308
+    second: Blue Gosta_37
+  - first:
+      213: 2927796851597036071
+    second: Blue Gosta_38
+  - first:
+      213: -933101479081965052
+    second: Blue Gosta_39
+  - first:
+      213: 1147860607669707736
+    second: Blue Gosta_40
+  - first:
+      213: 4759425069816847167
+    second: Blue Gosta_41
+  - first:
+      213: -6843771059545805474
+    second: Blue Gosta_42
+  - first:
+      213: 7477204502208728029
+    second: Blue Gosta_43
+  - first:
+      213: -8590156291498543537
+    second: Blue Gosta_44
+  - first:
+      213: 5665455002821110449
+    second: Blue Gosta_45
+  - first:
+      213: -2574409678146303162
+    second: Blue Gosta_46
+  - first:
+      213: -5461848973610523675
+    second: Blue Gosta_47
+  - first:
+      213: -1208167529943778714
+    second: Blue Gosta_48
+  - first:
+      213: 4149973465548991648
+    second: Blue Gosta_49
+  - first:
+      213: -8684451244516240460
+    second: Blue Gosta_50
+  - first:
+      213: 3373282824478492553
+    second: Blue Gosta_51
+  - first:
+      213: -8385241830375672220
+    second: Blue Gosta_52
+  - first:
+      213: 3434587765999183066
+    second: Blue Gosta_53
+  - first:
+      213: 7524400077164818918
+    second: Blue Gosta_54
+  - first:
+      213: 1121034449103997051
+    second: Blue Gosta_55
+  - first:
+      213: -2280435726014534365
+    second: Blue Gosta_56
+  - first:
+      213: -5693611321682416710
+    second: Blue Gosta_57
+  - first:
+      213: -4162656136183871494
+    second: Blue Gosta_58
+  - first:
+      213: -537586580940640043
+    second: Blue Gosta_59
+  - first:
+      213: 7799506652003876438
+    second: Blue Gosta_60
+  - first:
+      213: 1837810949516623464
+    second: Blue Gosta_61
+  - first:
+      213: -3813379894100863090
+    second: Blue Gosta_62
+  - first:
+      213: -4311377160172046064
+    second: Blue Gosta_63
+  - first:
+      213: 1205617383101426785
+    second: Blue Gosta_64
+  - first:
+      213: 7471539803714739540
+    second: Blue Gosta_65
+  - first:
+      213: 3948881592016877343
+    second: Blue Gosta_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gostei instance 10000
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6361
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10001
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 6361
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10002
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 6361
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10003
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 6361
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10004
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 6361
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10005
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 6361
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10006
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 6361
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10007
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 6361
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10008
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5662
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10009
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 5662
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10010
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 5662
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10011
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 5662
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10012
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 5662
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10013
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 5662
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10014
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 5662
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10015
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 5662
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10016
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4963
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10017
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 4963
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10018
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 4963
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10019
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 4963
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10020
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 4963
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10021
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 4963
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10022
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 4963
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10023
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 4963
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10024
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4264
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10025
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 4264
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10026
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 4264
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10027
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 4264
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10028
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 4264
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10029
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 4264
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10030
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 4264
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10031
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 4264
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10032
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3565
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10033
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 3565
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10034
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 3565
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10035
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 3565
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10036
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 3565
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10037
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 3565
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10038
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 3565
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10039
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 3565
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10040
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2866
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10041
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2866
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10042
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2866
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10043
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2866
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10044
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 2866
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10045
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 2866
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10046
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 2866
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10047
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 2866
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10048
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2167
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10049
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2167
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10050
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2167
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10051
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2167
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10052
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 2167
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10053
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 2167
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10054
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 2167
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10055
+      rect:
+        serializedVersion: 2
+        x: 3427
+        y: 2167
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10056
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1468
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gostei instance 10057
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1468
+        width: 488
+        height: 699
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue Gosta_0: 6902084572961998150
+      Blue Gosta_1: 7420687041221872822
+      Blue Gosta_10: -385376439585832291
+      Blue Gosta_11: 5153930427346434462
+      Blue Gosta_12: -3123814775960949066
+      Blue Gosta_13: -1271088465613548938
+      Blue Gosta_14: -5719095047168875373
+      Blue Gosta_15: -3925027468753855823
+      Blue Gosta_16: -4324904652382430460
+      Blue Gosta_17: -946113649836466316
+      Blue Gosta_18: 7800524790440906632
+      Blue Gosta_19: -2974216102359325638
+      Blue Gosta_2: 3863343812039595475
+      Blue Gosta_20: 702391257519247218
+      Blue Gosta_21: -2345090373884747498
+      Blue Gosta_22: -7641976842288104575
+      Blue Gosta_23: 4965810957558039894
+      Blue Gosta_24: -7970467906368872561
+      Blue Gosta_25: 6183030792727961208
+      Blue Gosta_26: -1768460658783118254
+      Blue Gosta_27: -1615217388116246736
+      Blue Gosta_28: 8372378310554659422
+      Blue Gosta_29: 7412934445892293787
+      Blue Gosta_3: -7733886960957459250
+      Blue Gosta_30: 2178420603724850103
+      Blue Gosta_31: -1045687370301439624
+      Blue Gosta_32: -7570178438583392779
+      Blue Gosta_33: 268770980848389696
+      Blue Gosta_34: 7956776102286389395
+      Blue Gosta_35: -6028110701833623632
+      Blue Gosta_36: 8983070043913774911
+      Blue Gosta_37: -4494548249437801308
+      Blue Gosta_38: 2927796851597036071
+      Blue Gosta_39: -933101479081965052
+      Blue Gosta_4: -6311994146391182664
+      Blue Gosta_40: 1147860607669707736
+      Blue Gosta_41: 4759425069816847167
+      Blue Gosta_42: -6843771059545805474
+      Blue Gosta_43: 7477204502208728029
+      Blue Gosta_44: -8590156291498543537
+      Blue Gosta_45: 5665455002821110449
+      Blue Gosta_46: -2574409678146303162
+      Blue Gosta_47: -5461848973610523675
+      Blue Gosta_48: -1208167529943778714
+      Blue Gosta_49: 4149973465548991648
+      Blue Gosta_5: 51180872650940694
+      Blue Gosta_50: -8684451244516240460
+      Blue Gosta_51: 3373282824478492553
+      Blue Gosta_52: -8385241830375672220
+      Blue Gosta_53: 3434587765999183066
+      Blue Gosta_54: 7524400077164818918
+      Blue Gosta_55: 1121034449103997051
+      Blue Gosta_56: -2280435726014534365
+      Blue Gosta_57: -5693611321682416710
+      Blue Gosta_58: -4162656136183871494
+      Blue Gosta_59: -537586580940640043
+      Blue Gosta_6: 8009666830463683243
+      Blue Gosta_60: 7799506652003876438
+      Blue Gosta_61: 1837810949516623464
+      Blue Gosta_62: -3813379894100863090
+      Blue Gosta_63: -4311377160172046064
+      Blue Gosta_64: 1205617383101426785
+      Blue Gosta_65: 7471539803714739540
+      Blue Gosta_66: 3948881592016877343
+      Blue Gosta_7: -3214097165795164980
+      Blue Gosta_8: -8213480779364705653
+      Blue Gosta_9: 8168251097851378460
+      Gostei instance 10000: 0
+      Gostei instance 10001: 0
+      Gostei instance 10002: 0
+      Gostei instance 10003: 0
+      Gostei instance 10004: 0
+      Gostei instance 10005: 0
+      Gostei instance 10006: 0
+      Gostei instance 10007: 0
+      Gostei instance 10008: 0
+      Gostei instance 10009: 0
+      Gostei instance 10010: 0
+      Gostei instance 10011: 0
+      Gostei instance 10012: 0
+      Gostei instance 10013: 0
+      Gostei instance 10014: 0
+      Gostei instance 10015: 0
+      Gostei instance 10016: 0
+      Gostei instance 10017: 0
+      Gostei instance 10018: 0
+      Gostei instance 10019: 0
+      Gostei instance 10020: 0
+      Gostei instance 10021: 0
+      Gostei instance 10022: 0
+      Gostei instance 10023: 0
+      Gostei instance 10024: 0
+      Gostei instance 10025: 0
+      Gostei instance 10026: 0
+      Gostei instance 10027: 0
+      Gostei instance 10028: 0
+      Gostei instance 10029: 0
+      Gostei instance 10030: 0
+      Gostei instance 10031: 0
+      Gostei instance 10032: 0
+      Gostei instance 10033: 0
+      Gostei instance 10034: 0
+      Gostei instance 10035: 0
+      Gostei instance 10036: 0
+      Gostei instance 10037: 0
+      Gostei instance 10038: 0
+      Gostei instance 10039: 0
+      Gostei instance 10040: 0
+      Gostei instance 10041: 0
+      Gostei instance 10042: 0
+      Gostei instance 10043: 0
+      Gostei instance 10044: 0
+      Gostei instance 10045: 0
+      Gostei instance 10046: 0
+      Gostei instance 10047: 0
+      Gostei instance 10048: 0
+      Gostei instance 10049: 0
+      Gostei instance 10050: 0
+      Gostei instance 10051: 0
+      Gostei instance 10052: 0
+      Gostei instance 10053: 0
+      Gostei instance 10054: 0
+      Gostei instance 10055: 0
+      Gostei instance 10056: 0
+      Gostei instance 10057: 0
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

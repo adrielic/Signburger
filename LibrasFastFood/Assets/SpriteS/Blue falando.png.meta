@@ -1,0 +1,823 @@
+fileFormatVersion: 2
+guid: 45843387034583d43bd6cc83e6f0abe0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6055041712675490012
+    second: Blue falando_0
+  - first:
+      213: -1126601838960383630
+    second: Blue falando_1
+  - first:
+      213: -8106539464348686400
+    second: Blue falando_2
+  - first:
+      213: -1246933827644914965
+    second: Blue falando_3
+  - first:
+      213: 8679280789566813546
+    second: Blue falando_4
+  - first:
+      213: -8434796828483763340
+    second: Blue falando_5
+  - first:
+      213: -16466415627052699
+    second: Blue falando_6
+  - first:
+      213: -8349046584902078960
+    second: Blue falando_7
+  - first:
+      213: 3775086777876399605
+    second: Blue falando_8
+  - first:
+      213: -3734934562734684465
+    second: Blue falando_9
+  - first:
+      213: -2704880346546948446
+    second: Blue falando_10
+  - first:
+      213: -9134194163087343344
+    second: Blue falando_11
+  - first:
+      213: 7595574379086455763
+    second: Blue falando_12
+  - first:
+      213: 3637450701780783499
+    second: Blue falando_13
+  - first:
+      213: 1550099712637299520
+    second: Blue falando_14
+  - first:
+      213: -590773725085865708
+    second: Blue falando_15
+  - first:
+      213: 8809608492264651152
+    second: Blue falando_16
+  - first:
+      213: -760798397758396583
+    second: Blue falando_17
+  - first:
+      213: -3263540194645457469
+    second: Blue falando_18
+  - first:
+      213: -3997416000711274273
+    second: Blue falando_19
+  - first:
+      213: -6018681624156923871
+    second: Blue falando_20
+  - first:
+      213: -5132598708967617082
+    second: Blue falando_21
+  - first:
+      213: -5976728268889920451
+    second: Blue falando_22
+  - first:
+      213: -1479352372610467073
+    second: Blue falando_23
+  - first:
+      213: -2879004254792718196
+    second: Blue falando_24
+  - first:
+      213: 7557602147126853210
+    second: Blue falando_25
+  - first:
+      213: 1049282072939945137
+    second: Blue falando_26
+  - first:
+      213: 470875255266029847
+    second: Blue falando_27
+  - first:
+      213: 6169411630290738637
+    second: Blue falando_28
+  - first:
+      213: -1411260258692651628
+    second: Blue falando_29
+  - first:
+      213: -2331813486668859482
+    second: Blue falando_30
+  - first:
+      213: 7137738367992649926
+    second: Blue falando_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pedindo instance 10000
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2555
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10001
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2555
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10002
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 2555
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10003
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 2555
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10004
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 2555
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10005
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 2555
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10006
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 2555
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10007
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1906
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10008
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1906
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10009
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1906
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10010
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1906
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10011
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1906
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10012
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1906
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10013
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1906
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10014
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1257
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10015
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1257
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10016
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1257
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10017
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1257
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10018
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1257
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10019
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 1257
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10020
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1257
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10021
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 608
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10022
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 608
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pedindo instance 10023
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 608
+        width: 523
+        height: 610
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blue falando_0: 6055041712675490012
+      Blue falando_1: -1126601838960383630
+      Blue falando_10: -2704880346546948446
+      Blue falando_11: -9134194163087343344
+      Blue falando_12: 7595574379086455763
+      Blue falando_13: 3637450701780783499
+      Blue falando_14: 1550099712637299520
+      Blue falando_15: -590773725085865708
+      Blue falando_16: 8809608492264651152
+      Blue falando_17: -760798397758396583
+      Blue falando_18: -3263540194645457469
+      Blue falando_19: -3997416000711274273
+      Blue falando_2: -8106539464348686400
+      Blue falando_20: -6018681624156923871
+      Blue falando_21: -5132598708967617082
+      Blue falando_22: -5976728268889920451
+      Blue falando_23: -1479352372610467073
+      Blue falando_24: -2879004254792718196
+      Blue falando_25: 7557602147126853210
+      Blue falando_26: 1049282072939945137
+      Blue falando_27: 470875255266029847
+      Blue falando_28: 6169411630290738637
+      Blue falando_29: -1411260258692651628
+      Blue falando_3: -1246933827644914965
+      Blue falando_30: -2331813486668859482
+      Blue falando_31: 7137738367992649926
+      Blue falando_4: 8679280789566813546
+      Blue falando_5: -8434796828483763340
+      Blue falando_6: -16466415627052699
+      Blue falando_7: -8349046584902078960
+      Blue falando_8: 3775086777876399605
+      Blue falando_9: -3734934562734684465
+      pedindo instance 10000: 0
+      pedindo instance 10001: 0
+      pedindo instance 10002: 0
+      pedindo instance 10003: 0
+      pedindo instance 10004: 0
+      pedindo instance 10005: 0
+      pedindo instance 10006: 0
+      pedindo instance 10007: 0
+      pedindo instance 10008: 0
+      pedindo instance 10009: 0
+      pedindo instance 10010: 0
+      pedindo instance 10011: 0
+      pedindo instance 10012: 0
+      pedindo instance 10013: 0
+      pedindo instance 10014: 0
+      pedindo instance 10015: 0
+      pedindo instance 10016: 0
+      pedindo instance 10017: 0
+      pedindo instance 10018: 0
+      pedindo instance 10019: 0
+      pedindo instance 10020: 0
+      pedindo instance 10021: 0
+      pedindo instance 10022: 0
+      pedindo instance 10023: 0
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

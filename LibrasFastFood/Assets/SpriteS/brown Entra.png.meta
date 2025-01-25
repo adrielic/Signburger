@@ -1,0 +1,1115 @@
+fileFormatVersion: 2
+guid: ec4cee2ee9473f241aff9ba5a8eaae61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -541461038728815130
+    second: brown Entra_0
+  - first:
+      213: -7096832781118486382
+    second: brown Entra_1
+  - first:
+      213: -5751781083034519058
+    second: brown Entra_2
+  - first:
+      213: -2150314412942063938
+    second: brown Entra_3
+  - first:
+      213: -2760317439244250004
+    second: brown Entra_4
+  - first:
+      213: 2729671426500669935
+    second: brown Entra_5
+  - first:
+      213: -6301948896562993333
+    second: brown Entra_6
+  - first:
+      213: 723795703703897118
+    second: brown Entra_7
+  - first:
+      213: 2625372362149542995
+    second: brown Entra_8
+  - first:
+      213: -5006700545782803584
+    second: brown Entra_9
+  - first:
+      213: -3091036960658634599
+    second: brown Entra_10
+  - first:
+      213: -3686360247855748951
+    second: brown Entra_11
+  - first:
+      213: -8433755623300386444
+    second: brown Entra_12
+  - first:
+      213: -1822963904035701336
+    second: brown Entra_13
+  - first:
+      213: 9165888343867087702
+    second: brown Entra_14
+  - first:
+      213: 3266941163783698819
+    second: brown Entra_15
+  - first:
+      213: 6688884526145771418
+    second: brown Entra_16
+  - first:
+      213: -1307115709523825565
+    second: brown Entra_17
+  - first:
+      213: 4823389178856407130
+    second: brown Entra_18
+  - first:
+      213: 4063601475818070610
+    second: brown Entra_19
+  - first:
+      213: 4476587280744393499
+    second: brown Entra_20
+  - first:
+      213: -4778022532461774474
+    second: brown Entra_21
+  - first:
+      213: -7247184948452287930
+    second: brown Entra_22
+  - first:
+      213: 2822287821531660368
+    second: brown Entra_23
+  - first:
+      213: 5885462182863275768
+    second: brown Entra_24
+  - first:
+      213: -2260041273746007897
+    second: brown Entra_25
+  - first:
+      213: -1899097814811529448
+    second: brown Entra_26
+  - first:
+      213: 3612635626013449808
+    second: brown Entra_27
+  - first:
+      213: 4350692124046697506
+    second: brown Entra_28
+  - first:
+      213: 5413042695613387982
+    second: brown Entra_29
+  - first:
+      213: 2552705252907632462
+    second: brown Entra_30
+  - first:
+      213: 388175711240666091
+    second: brown Entra_31
+  - first:
+      213: 4615170507247922482
+    second: brown Entra_32
+  - first:
+      213: 3822402767529953917
+    second: brown Entra_33
+  - first:
+      213: -5063466395785024341
+    second: brown Entra_34
+  - first:
+      213: 1305175294416823605
+    second: brown Entra_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chegando instance 10000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3433
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10001
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 3433
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10002
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 3433
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10003
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 3433
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10004
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 3433
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10005
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 3433
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2770
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10007
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2770
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10008
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2770
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10009
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2770
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10010
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 2770
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10011
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 2770
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10012
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2107
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10013
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2107
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10014
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2107
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10015
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2107
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10016
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 2107
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10017
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 2107
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10018
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1444
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10019
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1444
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10020
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1444
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10021
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1444
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10022
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 1444
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10023
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 1444
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10024
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 781
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10025
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 781
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10026
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 781
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10027
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 781
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10028
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 781
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10029
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 781
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10030
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10031
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 118
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10032
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 118
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10033
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 118
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10034
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 118
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chegando instance 10035
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 118
+        width: 636
+        height: 663
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00000000000000000800000000000000
+      internalID: 0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Chegando instance 10000: 0
+      Chegando instance 10001: 0
+      Chegando instance 10002: 0
+      Chegando instance 10003: 0
+      Chegando instance 10004: 0
+      Chegando instance 10005: 0
+      Chegando instance 10006: 0
+      Chegando instance 10007: 0
+      Chegando instance 10008: 0
+      Chegando instance 10009: 0
+      Chegando instance 10010: 0
+      Chegando instance 10011: 0
+      Chegando instance 10012: 0
+      Chegando instance 10013: 0
+      Chegando instance 10014: 0
+      Chegando instance 10015: 0
+      Chegando instance 10016: 0
+      Chegando instance 10017: 0
+      Chegando instance 10018: 0
+      Chegando instance 10019: 0
+      Chegando instance 10020: 0
+      Chegando instance 10021: 0
+      Chegando instance 10022: 0
+      Chegando instance 10023: 0
+      Chegando instance 10024: 0
+      Chegando instance 10025: 0
+      Chegando instance 10026: 0
+      Chegando instance 10027: 0
+      Chegando instance 10028: 0
+      Chegando instance 10029: 0
+      Chegando instance 10030: 0
+      Chegando instance 10031: 0
+      Chegando instance 10032: 0
+      Chegando instance 10033: 0
+      Chegando instance 10034: 0
+      Chegando instance 10035: 0
+      brown Entra_0: -541461038728815130
+      brown Entra_1: -7096832781118486382
+      brown Entra_10: -3091036960658634599
+      brown Entra_11: -3686360247855748951
+      brown Entra_12: -8433755623300386444
+      brown Entra_13: -1822963904035701336
+      brown Entra_14: 9165888343867087702
+      brown Entra_15: 3266941163783698819
+      brown Entra_16: 6688884526145771418
+      brown Entra_17: -1307115709523825565
+      brown Entra_18: 4823389178856407130
+      brown Entra_19: 4063601475818070610
+      brown Entra_2: -5751781083034519058
+      brown Entra_20: 4476587280744393499
+      brown Entra_21: -4778022532461774474
+      brown Entra_22: -7247184948452287930
+      brown Entra_23: 2822287821531660368
+      brown Entra_24: 5885462182863275768
+      brown Entra_25: -2260041273746007897
+      brown Entra_26: -1899097814811529448
+      brown Entra_27: 3612635626013449808
+      brown Entra_28: 4350692124046697506
+      brown Entra_29: 5413042695613387982
+      brown Entra_3: -2150314412942063938
+      brown Entra_30: 2552705252907632462
+      brown Entra_31: 388175711240666091
+      brown Entra_32: 4615170507247922482
+      brown Entra_33: 3822402767529953917
+      brown Entra_34: -5063466395785024341
+      brown Entra_35: 1305175294416823605
+      brown Entra_4: -2760317439244250004
+      brown Entra_5: 2729671426500669935
+      brown Entra_6: -6301948896562993333
+      brown Entra_7: 723795703703897118
+      brown Entra_8: 2625372362149542995
+      brown Entra_9: -5006700545782803584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
