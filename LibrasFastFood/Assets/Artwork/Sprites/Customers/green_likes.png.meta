@@ -1,0 +1,1665 @@
+fileFormatVersion: 2
+guid: 8a9f669a423993545858594048af1e22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7885109570819491575
+    second: green_likes_0
+  - first:
+      213: -6293022935410248558
+    second: green_likes_1
+  - first:
+      213: -4537507149767039021
+    second: green_likes_2
+  - first:
+      213: -2676395913709029675
+    second: green_likes_3
+  - first:
+      213: 6351422541860068155
+    second: green_likes_4
+  - first:
+      213: 8151793202948053508
+    second: green_likes_5
+  - first:
+      213: 2701353268268211158
+    second: green_likes_6
+  - first:
+      213: -3571340802478676342
+    second: green_likes_7
+  - first:
+      213: -5459099706098302967
+    second: green_likes_8
+  - first:
+      213: 8221972560337532345
+    second: green_likes_9
+  - first:
+      213: -582831037029454715
+    second: green_likes_10
+  - first:
+      213: -9100134235874144325
+    second: green_likes_11
+  - first:
+      213: -4152685831649004448
+    second: green_likes_12
+  - first:
+      213: 6568315861108073057
+    second: green_likes_13
+  - first:
+      213: 6421406293713930333
+    second: green_likes_14
+  - first:
+      213: 6417328741687624556
+    second: green_likes_15
+  - first:
+      213: -5313591299585144673
+    second: green_likes_16
+  - first:
+      213: 7956464165870682712
+    second: green_likes_17
+  - first:
+      213: 1991328177769579229
+    second: green_likes_18
+  - first:
+      213: 4942376912449549498
+    second: green_likes_19
+  - first:
+      213: 4034229716111580303
+    second: green_likes_20
+  - first:
+      213: 7538106238176183772
+    second: green_likes_21
+  - first:
+      213: 7714331819179015567
+    second: green_likes_22
+  - first:
+      213: 5896650901662109209
+    second: green_likes_23
+  - first:
+      213: 5375737219656013768
+    second: green_likes_24
+  - first:
+      213: -4244451713502282431
+    second: green_likes_25
+  - first:
+      213: -7521159990558137545
+    second: green_likes_26
+  - first:
+      213: -5270560389267376486
+    second: green_likes_27
+  - first:
+      213: 5064558933329041931
+    second: green_likes_28
+  - first:
+      213: -5700588808369695488
+    second: green_likes_29
+  - first:
+      213: 5517948702478167541
+    second: green_likes_30
+  - first:
+      213: 4942650263758979276
+    second: green_likes_31
+  - first:
+      213: -7208501474205703920
+    second: green_likes_32
+  - first:
+      213: 4948260227693455561
+    second: green_likes_33
+  - first:
+      213: 3543621237735675345
+    second: green_likes_34
+  - first:
+      213: -6853683544434420795
+    second: green_likes_35
+  - first:
+      213: -7051921335841984511
+    second: green_likes_36
+  - first:
+      213: 7828334392340633885
+    second: green_likes_37
+  - first:
+      213: -3250661016690570528
+    second: green_likes_38
+  - first:
+      213: -6632998503727319870
+    second: green_likes_39
+  - first:
+      213: -3958666473099663747
+    second: green_likes_40
+  - first:
+      213: -2744886153971306926
+    second: green_likes_41
+  - first:
+      213: -2360384562811696290
+    second: green_likes_42
+  - first:
+      213: -3605712109717927772
+    second: green_likes_43
+  - first:
+      213: 898187821491485858
+    second: green_likes_44
+  - first:
+      213: 3230408958189566857
+    second: green_likes_45
+  - first:
+      213: -6279170522148984845
+    second: green_likes_46
+  - first:
+      213: 8293885596841479340
+    second: green_likes_47
+  - first:
+      213: -1275381886650136266
+    second: green_likes_48
+  - first:
+      213: 904822839324172995
+    second: green_likes_49
+  - first:
+      213: 7470705084850826745
+    second: green_likes_50
+  - first:
+      213: 758120296666389824
+    second: green_likes_51
+  - first:
+      213: -1873110100286890437
+    second: green_likes_52
+  - first:
+      213: 4860143519543822917
+    second: green_likes_53
+  - first:
+      213: -6284392888250042497
+    second: green_likes_54
+  - first:
+      213: -4310429038237323755
+    second: green_likes_55
+  - first:
+      213: 7099452931150131171
+    second: green_likes_56
+  - first:
+      213: 4422654973952690312
+    second: green_likes_57
+  - first:
+      213: -8198127511697150611
+    second: green_likes_58
+  - first:
+      213: 5312155132447028707
+    second: green_likes_59
+  - first:
+      213: -353683619175759987
+    second: green_likes_60
+  - first:
+      213: 1016453074710351671
+    second: green_likes_61
+  - first:
+      213: 4579127883298611936
+    second: green_likes_62
+  - first:
+      213: -1460827860714407030
+    second: green_likes_63
+  - first:
+      213: -5851452562070922476
+    second: green_likes_64
+  - first:
+      213: -2840998362254535662
+    second: green_likes_65
+  - first:
+      213: 7442025590561406930
+    second: green_likes_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green_likes_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 6361
+        width: 455
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f68ab7a0698d6d60800000000000000
+      internalID: 7885109570819491575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 6361
+        width: 455
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2947c7b6bf0baa8a0800000000000000
+      internalID: -6293022935410248558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_2
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 6361
+        width: 455
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7275cb9498701c0800000000000000
+      internalID: -4537507149767039021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_3
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 6361
+        width: 455
+        height: 597
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6f01db8188bdad0800000000000000
+      internalID: -2676395913709029675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_4
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 6361
+        width: 455
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b5af98629c42850800000000000000
+      internalID: 6351422541860068155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_5
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 6361
+        width: 455
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a99206abcf02170800000000000000
+      internalID: 8151793202948053508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_6
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 6361
+        width: 455
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db97ff2c722d7520800000000000000
+      internalID: 2701353268268211158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5662
+        width: 455
+        height: 580
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a866660467c007ec0800000000000000
+      internalID: -3571340802478676342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_8
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 5662
+        width: 454
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9004298adb16d34b0800000000000000
+      internalID: -5459099706098302967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_9
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 5662
+        width: 454
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b57de35b705a1270800000000000000
+      internalID: 8221972560337532345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_10
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 5662
+        width: 455
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c69c1824e59e7f0800000000000000
+      internalID: -582831037029454715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_11
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 5662
+        width: 455
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfc9568024d5b180800000000000000
+      internalID: -9100134235874144325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_12
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 5662
+        width: 455
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06473ccec32be56c0800000000000000
+      internalID: -4152685831649004448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_13
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 5662
+        width: 455
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16229e9a978572b50800000000000000
+      internalID: 6568315861108073057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4963
+        width: 454
+        height: 557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58c647800b6d1950800000000000000
+      internalID: 6421406293713930333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_15
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 4963
+        width: 454
+        height: 557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6302377d7eee0950800000000000000
+      internalID: 6417328741687624556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_16
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 4963
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f980f9a9dd45246b0800000000000000
+      internalID: -5313591299585144673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_17
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 4963
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852c8d2f00a0b6e60800000000000000
+      internalID: 7956464165870682712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_18
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 4963
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd28e2b5d6e92ab10800000000000000
+      internalID: 1991328177769579229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_19
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 4963
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4b5a4bd99d69440800000000000000
+      internalID: 4942376912449549498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_20
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 4963
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cd7237d867cf730800000000000000
+      internalID: 4034229716111580303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_21
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4264
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5c5ad5fabbc9860800000000000000
+      internalID: 7538106238176183772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_22
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 4264
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d78a1daefce0b60800000000000000
+      internalID: 7714331819179015567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_23
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 4264
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e8e06d0cc15d150800000000000000
+      internalID: 5896650901662109209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_24
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 4264
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c75177f4847a9a40800000000000000
+      internalID: 5375737219656013768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_25
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 4264
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14df56697ada815c0800000000000000
+      internalID: -4244451713502282431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_26
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 4264
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733e6ef56d87f9790800000000000000
+      internalID: -7521159990558137545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_27
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 4264
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96397620453bd6b0800000000000000
+      internalID: -5270560389267376486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3565
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0adb15448de84640800000000000000
+      internalID: 5064558933329041931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_29
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 3565
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0059e8a8ea073e0b0800000000000000
+      internalID: -5700588808369695488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_30
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3565
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fde90c0c11b39c40800000000000000
+      internalID: 5517948702478167541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_31
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 3565
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc048544a32d79440800000000000000
+      internalID: 4942650263758979276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_32
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 3565
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011e61bf91246fb90800000000000000
+      internalID: -7208501474205703920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_33
+      rect:
+        serializedVersion: 2
+        x: 2698
+        y: 3565
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8acd7c570cba440800000000000000
+      internalID: 4948260227693455561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_34
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 3565
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5d3c5adb87d2130800000000000000
+      internalID: 3543621237735675345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_37
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 2867
+        width: 466
+        height: 645
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19df6e47a4d3ac60800000000000000
+      internalID: 7828334392340633885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_39
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 2867
+        width: 479
+        height: 662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4b2a5010bd2f3a0800000000000000
+      internalID: -6632998503727319870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_41
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 2867
+        width: 480
+        height: 678
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ee6a3069438e9d0800000000000000
+      internalID: -2744886153971306926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_43
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 2867
+        width: 484
+        height: 681
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a840f9a0ffe5fdc0800000000000000
+      internalID: -3605712109717927772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_45
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2866
+        width: 454
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bf02005d7b4dc20800000000000000
+      internalID: 3230408958189566857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_46
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2865
+        width: 454
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7a437bda7ebd8a0800000000000000
+      internalID: -6279170522148984845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_47
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2865
+        width: 454
+        height: 615
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac0777e10dc91370800000000000000
+      internalID: 8293885596841479340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_51
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 2168
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d50d3a462658a00800000000000000
+      internalID: 758120296666389824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_52
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2168
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e1437b9406106e0800000000000000
+      internalID: -1873110100286890437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_53
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 2168
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a83d7e7c2b27340800000000000000
+      internalID: 4860143519543822917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_54
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 2168
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f777ddad6f959c8a0800000000000000
+      internalID: -6284392888250042497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2168
+        width: 487
+        height: 681
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ee55a90a74e24c0800000000000000
+      internalID: -4310429038237323755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_56
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2168
+        width: 489
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef2fcc83d2568260800000000000000
+      internalID: 7099452931150131171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_57
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2168
+        width: 496
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888809e344d606d30800000000000000
+      internalID: 4422654973952690312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1469
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d2fe1b6766a3e80800000000000000
+      internalID: -8198127511697150611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_59
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1469
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5f54da2f098b940800000000000000
+      internalID: 5312155132447028707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_60
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1469
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f772c4f96771bf0800000000000000
+      internalID: -353683619175759987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_61
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1469
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fc6f0afaa2b1e00800000000000000
+      internalID: 1016453074710351671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_62
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 1469
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2a9117c845c8f30800000000000000
+      internalID: 4579127883298611936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_63
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 1469
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bbf1cecc81abbe0800000000000000
+      internalID: -1460827860714407030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_64
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 1469
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b96b9a5e67bcea0800000000000000
+      internalID: -5851452562070922476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_65
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 770
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2141a52ba0fb298d0800000000000000
+      internalID: -2840998362254535662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_likes_66
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 770
+        width: 466
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df77c658d2674760800000000000000
+      internalID: 7442025590561406930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3b0fc499f3c6bd84eae1456aeeb77e3b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      green_likes_0: 7885109570819491575
+      green_likes_1: -6293022935410248558
+      green_likes_10: -582831037029454715
+      green_likes_11: -9100134235874144325
+      green_likes_12: -4152685831649004448
+      green_likes_13: 6568315861108073057
+      green_likes_14: 6421406293713930333
+      green_likes_15: 6417328741687624556
+      green_likes_16: -5313591299585144673
+      green_likes_17: 7956464165870682712
+      green_likes_18: 1991328177769579229
+      green_likes_19: 4942376912449549498
+      green_likes_2: -4537507149767039021
+      green_likes_20: 4034229716111580303
+      green_likes_21: 7538106238176183772
+      green_likes_22: 7714331819179015567
+      green_likes_23: 5896650901662109209
+      green_likes_24: 5375737219656013768
+      green_likes_25: -4244451713502282431
+      green_likes_26: -7521159990558137545
+      green_likes_27: -5270560389267376486
+      green_likes_28: 5064558933329041931
+      green_likes_29: -5700588808369695488
+      green_likes_3: -2676395913709029675
+      green_likes_30: 5517948702478167541
+      green_likes_31: 4942650263758979276
+      green_likes_32: -7208501474205703920
+      green_likes_33: 4948260227693455561
+      green_likes_34: 3543621237735675345
+      green_likes_37: 7828334392340633885
+      green_likes_39: -6632998503727319870
+      green_likes_4: 6351422541860068155
+      green_likes_41: -2744886153971306926
+      green_likes_43: -3605712109717927772
+      green_likes_45: 3230408958189566857
+      green_likes_46: -6279170522148984845
+      green_likes_47: 8293885596841479340
+      green_likes_5: 8151793202948053508
+      green_likes_51: 758120296666389824
+      green_likes_52: -1873110100286890437
+      green_likes_53: 4860143519543822917
+      green_likes_54: -6284392888250042497
+      green_likes_55: -4310429038237323755
+      green_likes_56: 7099452931150131171
+      green_likes_57: 4422654973952690312
+      green_likes_58: -8198127511697150611
+      green_likes_59: 5312155132447028707
+      green_likes_6: 2701353268268211158
+      green_likes_60: -353683619175759987
+      green_likes_61: 1016453074710351671
+      green_likes_62: 4579127883298611936
+      green_likes_63: -1460827860714407030
+      green_likes_64: -5851452562070922476
+      green_likes_65: -2840998362254535662
+      green_likes_66: 7442025590561406930
+      green_likes_7: -3571340802478676342
+      green_likes_8: -5459099706098302967
+      green_likes_9: 8221972560337532345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

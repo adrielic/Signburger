@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 6d9d7c57c08e90a4fbfe5860323ca9b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9011126969882199722
+    second: brown_entrance_0
+  - first:
+      213: -3684393841070827106
+    second: brown_entrance_1
+  - first:
+      213: -556733426983546161
+    second: brown_entrance_2
+  - first:
+      213: -4175326975582347301
+    second: brown_entrance_3
+  - first:
+      213: 801468218029526336
+    second: brown_entrance_4
+  - first:
+      213: -3903739671969239083
+    second: brown_entrance_5
+  - first:
+      213: -8253776149220146016
+    second: brown_entrance_6
+  - first:
+      213: 6235840466786373600
+    second: brown_entrance_7
+  - first:
+      213: -2282842217665906612
+    second: brown_entrance_8
+  - first:
+      213: -4774601461484201061
+    second: brown_entrance_9
+  - first:
+      213: 8057428812940171759
+    second: brown_entrance_10
+  - first:
+      213: -8313673302566311037
+    second: brown_entrance_11
+  - first:
+      213: 1095381378561501722
+    second: brown_entrance_12
+  - first:
+      213: -8560469878215494325
+    second: brown_entrance_13
+  - first:
+      213: 3273171289263544712
+    second: brown_entrance_14
+  - first:
+      213: -2492809416938882900
+    second: brown_entrance_15
+  - first:
+      213: -1384522547245326771
+    second: brown_entrance_16
+  - first:
+      213: 1357767790418214925
+    second: brown_entrance_17
+  - first:
+      213: 3366324438507285563
+    second: brown_entrance_18
+  - first:
+      213: -58862273843836726
+    second: brown_entrance_19
+  - first:
+      213: 1284092892284930908
+    second: brown_entrance_20
+  - first:
+      213: -1502899913236814746
+    second: brown_entrance_21
+  - first:
+      213: -3968372199198087970
+    second: brown_entrance_22
+  - first:
+      213: 6377783441588566554
+    second: brown_entrance_23
+  - first:
+      213: 9179074991427971877
+    second: brown_entrance_24
+  - first:
+      213: 2765417704526293092
+    second: brown_entrance_25
+  - first:
+      213: -1448984172683654828
+    second: brown_entrance_26
+  - first:
+      213: -3424281695704504357
+    second: brown_entrance_27
+  - first:
+      213: -7711174977776121543
+    second: brown_entrance_28
+  - first:
+      213: -4514094296200680645
+    second: brown_entrance_29
+  - first:
+      213: -6545526828161495707
+    second: brown_entrance_30
+  - first:
+      213: 5930683812751581978
+    second: brown_entrance_31
+  - first:
+      213: -5537200727877407596
+    second: brown_entrance_32
+  - first:
+      213: 8894360476061248067
+    second: brown_entrance_33
+  - first:
+      213: -5439632319957341452
+    second: brown_entrance_34
+  - first:
+      213: -8118056214623289986
+    second: brown_entrance_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brown_entrance_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3469
+        width: 379
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa645c17c34fd0d70800000000000000
+      internalID: 9011126969882199722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_1
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 3469
+        width: 382
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99165282576edcc0800000000000000
+      internalID: -3684393841070827106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_2
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 3447
+        width: 382
+        height: 649
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc25f0ad5e51648f0800000000000000
+      internalID: -556733426983546161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_3
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 3447
+        width: 381
+        height: 649
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfde4fcc324e06c0800000000000000
+      internalID: -4175326975582347301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_4
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 3441
+        width: 382
+        height: 614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d4a6219136f1b00800000000000000
+      internalID: 801468218029526336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_5
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 3441
+        width: 418
+        height: 614
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df6ca4837123d9c0800000000000000
+      internalID: -3903739671969239083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2767
+        width: 382
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4442a9252b47d80800000000000000
+      internalID: -8253776149220146016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_7
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2767
+        width: 382
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efceca9dd72a8650800000000000000
+      internalID: 6235840466786373600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_8
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2783
+        width: 382
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4832c91917b150e0800000000000000
+      internalID: -2282842217665906612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_9
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 2783
+        width: 382
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b5c2884453dbdb0800000000000000
+      internalID: -4774601461484201061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_10
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 2789
+        width: 382
+        height: 637
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9db46b0dcb1df60800000000000000
+      internalID: 8057428812940171759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_11
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 2789
+        width: 382
+        height: 637
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38be2e5dd26ef9c80800000000000000
+      internalID: -8313673302566311037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_12
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2129
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a6cba6f83933f00800000000000000
+      internalID: 1095381378561501722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_13
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2129
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45b886400a133980800000000000000
+      internalID: -8560469878215494325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_14
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 2117
+        width: 384
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8899f8112f3ac6d20800000000000000
+      internalID: 3273171289263544712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_15
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 2117
+        width: 382
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8fb92fa03c76dd0800000000000000
+      internalID: -2492809416938882900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_16
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 2117
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e5ceb241039cce0800000000000000
+      internalID: -1384522547245326771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_17
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 2117
+        width: 384
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0048539c92c7d210800000000000000
+      internalID: 1357767790418214925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1451
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c61f3cd3697be20800000000000000
+      internalID: 3366324438507285563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_19
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1451
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8cdd4e211ee2ff0800000000000000
+      internalID: -58862273843836726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_20
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1451
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b4f3f9ea302d110800000000000000
+      internalID: 1284092892284930908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_21
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 1451
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664ed8add70a42be0800000000000000
+      internalID: -1502899913236814746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_22
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1451
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4234a92828de8c0800000000000000
+      internalID: -3968372199198087970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_23
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1451
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a314acf30728850800000000000000
+      internalID: 6377783441588566554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 787
+        width: 382
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b6cb66210a26f70800000000000000
+      internalID: 9179074991427971877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_25
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 787
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468addd10ccb06620800000000000000
+      internalID: 2765417704526293092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_26
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 787
+        width: 382
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459070e629c24ebe0800000000000000
+      internalID: -1448984172683654828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_27
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 787
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd729acb0f18a70d0800000000000000
+      internalID: -3424281695704504357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_28
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 787
+        width: 382
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93906c896376cf490800000000000000
+      internalID: -7711174977776121543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_29
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 787
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b67508727ba51c0800000000000000
+      internalID: -4514094296200680645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_30
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 125
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d05ab870e9925a0800000000000000
+      internalID: -6545526828161495707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_31
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 125
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13a73e61850e4250800000000000000
+      internalID: 5930683812751581978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_32
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 112
+        width: 432
+        height: 639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c25dc7649e723b0800000000000000
+      internalID: -5537200727877407596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_33
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 108
+        width: 406
+        height: 643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aa7e78abd1f6b70800000000000000
+      internalID: 8894360476061248067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_34
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 125
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa6534b93b8284b0800000000000000
+      internalID: -5439632319957341452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_entrance_35
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 125
+        width: 382
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7df9b452eed65f80800000000000000
+      internalID: -8118056214623289986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 63fc27e4eef90404292e5bda19925ad0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brown_entrance_0: 9011126969882199722
+      brown_entrance_1: -3684393841070827106
+      brown_entrance_10: 8057428812940171759
+      brown_entrance_11: -8313673302566311037
+      brown_entrance_12: 1095381378561501722
+      brown_entrance_13: -8560469878215494325
+      brown_entrance_14: 3273171289263544712
+      brown_entrance_15: -2492809416938882900
+      brown_entrance_16: -1384522547245326771
+      brown_entrance_17: 1357767790418214925
+      brown_entrance_18: 3366324438507285563
+      brown_entrance_19: -58862273843836726
+      brown_entrance_2: -556733426983546161
+      brown_entrance_20: 1284092892284930908
+      brown_entrance_21: -1502899913236814746
+      brown_entrance_22: -3968372199198087970
+      brown_entrance_23: 6377783441588566554
+      brown_entrance_24: 9179074991427971877
+      brown_entrance_25: 2765417704526293092
+      brown_entrance_26: -1448984172683654828
+      brown_entrance_27: -3424281695704504357
+      brown_entrance_28: -7711174977776121543
+      brown_entrance_29: -4514094296200680645
+      brown_entrance_3: -4175326975582347301
+      brown_entrance_30: -6545526828161495707
+      brown_entrance_31: 5930683812751581978
+      brown_entrance_32: -5537200727877407596
+      brown_entrance_33: 8894360476061248067
+      brown_entrance_34: -5439632319957341452
+      brown_entrance_35: -8118056214623289986
+      brown_entrance_4: 801468218029526336
+      brown_entrance_5: -3903739671969239083
+      brown_entrance_6: -8253776149220146016
+      brown_entrance_7: 6235840466786373600
+      brown_entrance_8: -2282842217665906612
+      brown_entrance_9: -4774601461484201061
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

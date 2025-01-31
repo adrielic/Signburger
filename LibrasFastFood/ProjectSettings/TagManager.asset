@@ -5,10 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Target
-  - NonStackable
-  - Stackable
   - Receiver
-  - Getter
+  - Ignore
+  - Source
   layers:
   - Default
   - TransparentFX

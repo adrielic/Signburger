@@ -7,56 +7,84 @@ public class OrderCycle : MonoBehaviour
     Stack<string> orderStack = new Stack<string>();
     string[] ingredientsArray = { "burger", "cheese", "tomato", "lettuce", "ham" };
 
-    float countdownTime = 15f;
+    public static bool theresIsAnOrder;
+    [HideInInspector] public float countdownTime = 15f;
+
+    public GameObject[] customerPrefabs;
+    GameObject currentCustomer;
+    CustomerBehaviour customerBehaviour;
+    int customerCycle;
+
+    public GameObject signController;
+    Animator trayAnimator, signAnimator;
 
     void Start()
     {
-        NextOrder();
+        signAnimator = signController.GetComponent<Animator>();
+        trayAnimator = GetComponent<Animator>();
+        customerCycle = Random.Range(0, customerPrefabs.Length);
+        theresIsAnOrder = false;
+        StartCoroutine(NextOrder());
     }
 
     void Update()
     {
-        if (TrayHandler.WasServed)
+        if (PlateControl.wasServed)
         {
-            CheckOrder();
-            NextOrder();
-            TrayHandler.WasServed = false;
+            if (orderStack.Count > 0)
+            {
+                StartCoroutine(CheckOrder(true));
+                PlateControl.wasServed = false;
+            }
         }
 
-        if (countdownTime > 0)
+        if (customerBehaviour != null)
         {
-            countdownTime -= Time.deltaTime;
-        }
-        else
-        {
-            GameManager.fails++;
-            NextOrder();
+            if (customerBehaviour.isWaiting)
+            {
+                if (countdownTime > 0)
+                {
+                    countdownTime -= Time.deltaTime;
+                }
+                else
+                {
+                    StartCoroutine(CheckOrder(false));
+                }
+            }
         }
     }
 
-    void NextOrder()//transformar em coroutine
+    IEnumerator NextOrder()
     {
-        if (orderStack.Count > 0) 
-            orderStack.Clear();
+        yield return new WaitForSeconds(1);
+        InstantiateCustomer();
 
-        int orderSize = Random.Range(2, ingredientsArray.Length + 1);
+        yield return new WaitForSeconds(1);
+        List<string> availableIngredients = new List<string>(ingredientsArray);
+        int orderSize = Random.Range(2, availableIngredients.Count + 1);
 
         for (int i = 0; i < orderSize; i++)
         {
-            int rIngredient = Random.Range(0, ingredientsArray.Length);
+            int rIngredient = Random.Range(0, availableIngredients.Count);
+            string selectedIngredient = availableIngredients[rIngredient];
+            availableIngredients.RemoveAt(rIngredient);
+            orderStack.Push(selectedIngredient);
+            signAnimator.SetInteger("Index", System.Array.IndexOf(ingredientsArray, selectedIngredient));
 
-            if (orderStack.Contains(ingredientsArray[rIngredient]))
-                rIngredient = Random.Range(0, ingredientsArray.Length);
-            else
-                orderStack.Push(ingredientsArray[rIngredient]);
+            yield return new WaitForSeconds(1.5f);
         }
+
+        yield return new WaitForSeconds(1);
+        signAnimator.SetInteger("Index", -1);
+        customerBehaviour.isWaiting = true;
+        theresIsAnOrder = true;
+        HUDManager.ShowTimer(true);
+        countdownTime = 15f;
 
         foreach (string ingredient in orderStack)
         {
             Debug.Log("requested: " + ingredient);
         }
-
-        countdownTime = 15f;
     }
 
     bool IsSameStack(Stack<string> stack1, Stack<string> stack2)
@@ -87,17 +115,46 @@ public class OrderCycle : MonoBehaviour
         return flag;
     }
 
-    void CheckOrder()
+    IEnumerator CheckOrder(bool wasServed)
     {
-        if (IsSameStack(orderStack, TrayHandler.trayStack))
+        trayAnimator.SetTrigger("Serve");
+        HUDManager.ShowTimer(false);
+        customerBehaviour.isWaiting = false;
+        theresIsAnOrder = false;
+        float waitTime;
+
+        if (wasServed && IsSameStack(orderStack, PlateControl.plateStack))
         {
-            GameManager.score += (int)countdownTime;
+            GameManager.AddScore(10 * (int)countdownTime);
+            customerBehaviour.RateOrder("Like");
+            waitTime = 4.8f;
             Debug.Log("ok");
         }
         else
         {
-            GameManager.fails++;
-            Debug.Log("missed");
+            GameManager.AddFailure(1);
+            customerBehaviour.RateOrder("Dislike");
+            waitTime = 2.75f;
+            Debug.Log("failed");
         }
+
+        yield return new WaitForSeconds(waitTime);
+        customerBehaviour.Leave();
+        waitTime = 1.3f;
+
+        yield return new WaitForSeconds(waitTime);
+        orderStack.Clear();
+        PlateControl.plateStack.Clear();
+        StartCoroutine(NextOrder());
+    }
+
+    void InstantiateCustomer()
+    {
+        currentCustomer = Instantiate(customerPrefabs[customerCycle], transform.position, transform.rotation);
+        customerBehaviour = currentCustomer.GetComponent<CustomerBehaviour>();
+        customerCycle++;
+
+        if (customerCycle >= customerPrefabs.Length)
+            customerCycle = 0;
     }
 }

@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: ec1ad8ff99c58d9428991e00a73a0de5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4036353806956829431
+    second: brown_dislikes_0
+  - first:
+      213: -991650567048794169
+    second: brown_dislikes_1
+  - first:
+      213: 4628576347410228023
+    second: brown_dislikes_2
+  - first:
+      213: 7690364989181708884
+    second: brown_dislikes_3
+  - first:
+      213: 4985031619661640394
+    second: brown_dislikes_4
+  - first:
+      213: -4252545886708328375
+    second: brown_dislikes_5
+  - first:
+      213: 507874936674910847
+    second: brown_dislikes_6
+  - first:
+      213: 1942393418711185725
+    second: brown_dislikes_7
+  - first:
+      213: 2686969126040418178
+    second: brown_dislikes_8
+  - first:
+      213: -1137041287951662675
+    second: brown_dislikes_9
+  - first:
+      213: -1976561389244479580
+    second: brown_dislikes_10
+  - first:
+      213: -3683555542209364407
+    second: brown_dislikes_11
+  - first:
+      213: -8125193649485176040
+    second: brown_dislikes_12
+  - first:
+      213: 4990023963817543837
+    second: brown_dislikes_13
+  - first:
+      213: -3899341948767120476
+    second: brown_dislikes_14
+  - first:
+      213: 4158265263631382632
+    second: brown_dislikes_15
+  - first:
+      213: 3684559637276435046
+    second: brown_dislikes_16
+  - first:
+      213: -6751985837700103552
+    second: brown_dislikes_17
+  - first:
+      213: -6295269677685390444
+    second: brown_dislikes_18
+  - first:
+      213: 6675829355471830623
+    second: brown_dislikes_19
+  - first:
+      213: 6428004750593420043
+    second: brown_dislikes_20
+  - first:
+      213: 372920095710752323
+    second: brown_dislikes_21
+  - first:
+      213: 1249630358383534334
+    second: brown_dislikes_22
+  - first:
+      213: -2620554402384585324
+    second: brown_dislikes_23
+  - first:
+      213: -2421370179597183680
+    second: brown_dislikes_24
+  - first:
+      213: -1982742922698126385
+    second: brown_dislikes_25
+  - first:
+      213: -58938536404915444
+    second: brown_dislikes_26
+  - first:
+      213: -8767740858277585277
+    second: brown_dislikes_27
+  - first:
+      213: 7098447220678031419
+    second: brown_dislikes_28
+  - first:
+      213: -2525208716660073163
+    second: brown_dislikes_29
+  - first:
+      213: 5754825713635473675
+    second: brown_dislikes_30
+  - first:
+      213: -5109749572039715136
+    second: brown_dislikes_31
+  - first:
+      213: 3980857166087370632
+    second: brown_dislikes_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: brown_dislikes_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2584
+        width: 382
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0cace7a6c10194ba6629220dd29b4f
+      internalID: 102322167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2584
+        width: 382
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de26e0c1e05715419b779b3303a74ab
+      internalID: 534879303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_2
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2584
+        width: 382
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715e8451f72bc6045bc5adf18f34bb34
+      internalID: -1219640635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_3
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 2584
+        width: 384
+        height: 585
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4d007c12268c54a9f7f4a52d714ea3
+      internalID: -1849087124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_4
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 2584
+        width: 382
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bd51bf07abb3c4a8ba44f97c7b489d
+      internalID: -582842147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_5
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2584
+        width: 382
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad6e9151baa74d4ca4347dcbd6a1a16
+      internalID: -735969459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_6
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 2584
+        width: 382
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe46e2bc7d5219e4681ae6e23792749a
+      internalID: -781115511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_7
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 2584
+        width: 382
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1d1e08711333f4e91baf3fa3912d06
+      internalID: 1925612727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_8
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 2584
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fc89b4153ce0e40891739ff52d0c82
+      internalID: -174989403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1954
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6814c5dc8433e2a4bb5be31b0034b0bd
+      internalID: 421548913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1954
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509a7cb42b8841142b11e2c41994eff3
+      internalID: -1025730640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_11
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1954
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef97547a2b4d84d83b2896103962d2
+      internalID: -611292313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_12
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1954
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2061ba0ad7eb62041a09b7f467b31ef7
+      internalID: -1346283228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_13
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1954
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aab85a41e44af64bb3e3966c1dacb34
+      internalID: -21679193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_14
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 1954
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd79b0854bc0c543a518ade92461184
+      internalID: 1431090094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_15
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 1954
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c583928ef229c45b2fbdff9a850c3f
+      internalID: 1975700781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_16
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1954
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04dd0f4ffe93314b9ee8f480679517a
+      internalID: -1035481798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_17
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 1954
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1ea68670c8df44191b688ada9236b6
+      internalID: -1510668706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1323
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbb583ae605a704dba2243c94c90418
+      internalID: -420180565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1323
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37914980daa26dc43b5484d9002d431d
+      internalID: 822670477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_20
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1323
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e70bf45ce262f842ab193e2fc40e044
+      internalID: -924594749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_21
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1323
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59d6b7cd6b91d9478af523d0916559c
+      internalID: -816501767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_22
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1323
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f393ad89a45bf41873b424cb2c2019
+      internalID: 925771717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_23
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 1323
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc0e16a6a1b7f249be1e8b4d9612131
+      internalID: -109989448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_24
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 1323
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89216dce5a6f0be478c2b571d7011e32
+      internalID: -1900411365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_25
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1323
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a80358360ec294aaab5a83cd36e754
+      internalID: 1613078096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_26
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 1323
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fac15c63825a6541bdf725bcc5f2d14
+      internalID: -1569543334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 693
+        width: 384
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef708a76b8e6c5a449c21779d2a670c1
+      internalID: 2101847124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_28
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 691
+        width: 382
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92c05e863349784b9d71607d57fa6a1
+      internalID: -641323605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_29
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 691
+        width: 382
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8439ab22a73c85643ade16af97a29568
+      internalID: 943847052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_30
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 691
+        width: 382
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c302b9acfd44841b4bdccff149834d
+      internalID: -1796998284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_31
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 691
+        width: 382
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7602097f36d704893eb80e55400c31
+      internalID: 847190202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: brown_dislikes_32
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 691
+        width: 382
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9fca3f7c79688408147e97f3426f14
+      internalID: 122822053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d3f862f56c438a94c898767e2997af29
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      brown_dislikes_0: 102322167
+      brown_dislikes_1: 534879303
+      brown_dislikes_10: -1025730640
+      brown_dislikes_11: -611292313
+      brown_dislikes_12: -1346283228
+      brown_dislikes_13: -21679193
+      brown_dislikes_14: 1431090094
+      brown_dislikes_15: 1975700781
+      brown_dislikes_16: -1035481798
+      brown_dislikes_17: -1510668706
+      brown_dislikes_18: -420180565
+      brown_dislikes_19: 822670477
+      brown_dislikes_2: -1219640635
+      brown_dislikes_20: -924594749
+      brown_dislikes_21: -816501767
+      brown_dislikes_22: 925771717
+      brown_dislikes_23: -109989448
+      brown_dislikes_24: -1900411365
+      brown_dislikes_25: 1613078096
+      brown_dislikes_26: -1569543334
+      brown_dislikes_27: 2101847124
+      brown_dislikes_28: -641323605
+      brown_dislikes_29: 943847052
+      brown_dislikes_3: -1849087124
+      brown_dislikes_30: -1796998284
+      brown_dislikes_31: 847190202
+      brown_dislikes_32: 122822053
+      brown_dislikes_4: -582842147
+      brown_dislikes_5: -735969459
+      brown_dislikes_6: -781115511
+      brown_dislikes_7: 1925612727
+      brown_dislikes_8: -174989403
+      brown_dislikes_9: 421548913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

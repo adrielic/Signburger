@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 30c9033bafae0ec4daf37788e35534ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7899520523848716055
+    second: green_entrance_0
+  - first:
+      213: -912969273376174079
+    second: green_entrance_1
+  - first:
+      213: 6908925573402878209
+    second: green_entrance_2
+  - first:
+      213: -4252557429072269004
+    second: green_entrance_3
+  - first:
+      213: -722332820053057851
+    second: green_entrance_4
+  - first:
+      213: 6795401621631234249
+    second: green_entrance_5
+  - first:
+      213: 5020071725754133772
+    second: green_entrance_6
+  - first:
+      213: 748626582505103841
+    second: green_entrance_7
+  - first:
+      213: 2604947519700894797
+    second: green_entrance_8
+  - first:
+      213: -5355720012419152459
+    second: green_entrance_9
+  - first:
+      213: 14236756456776374
+    second: green_entrance_10
+  - first:
+      213: 7187749211281824386
+    second: green_entrance_11
+  - first:
+      213: -4615688880104104686
+    second: green_entrance_12
+  - first:
+      213: -59190188614518594
+    second: green_entrance_13
+  - first:
+      213: -7917808948221446380
+    second: green_entrance_14
+  - first:
+      213: -4881776334814780221
+    second: green_entrance_15
+  - first:
+      213: -5824317303119941503
+    second: green_entrance_16
+  - first:
+      213: -4325624575238276338
+    second: green_entrance_17
+  - first:
+      213: 1058068717758794922
+    second: green_entrance_18
+  - first:
+      213: -80954463887943659
+    second: green_entrance_19
+  - first:
+      213: 3993014362076381903
+    second: green_entrance_20
+  - first:
+      213: 4007652510296193108
+    second: green_entrance_21
+  - first:
+      213: 2960430843138547688
+    second: green_entrance_22
+  - first:
+      213: -2617128119292014091
+    second: green_entrance_23
+  - first:
+      213: 454539442821384380
+    second: green_entrance_24
+  - first:
+      213: -6199635487953737648
+    second: green_entrance_25
+  - first:
+      213: -6528173004436071384
+    second: green_entrance_26
+  - first:
+      213: -4665088085127166796
+    second: green_entrance_27
+  - first:
+      213: 7031182880842409306
+    second: green_entrance_28
+  - first:
+      213: 8259410222225164330
+    second: green_entrance_29
+  - first:
+      213: -4900966373831911990
+    second: green_entrance_30
+  - first:
+      213: -5747542386372261265
+    second: green_entrance_31
+  - first:
+      213: 3982824441617502117
+    second: green_entrance_32
+  - first:
+      213: 7548694290303186638
+    second: green_entrance_33
+  - first:
+      213: -8061868772841762243
+    second: green_entrance_34
+  - first:
+      213: 6103724093132946087
+    second: green_entrance_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green_entrance_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5041
+        width: 458
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ea7f64a5b382c45afc4c1816cebfde
+      internalID: 1609780952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_1
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 5041
+        width: 458
+        height: 609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d090193d4021c14fae5234a69855aa1
+      internalID: 719655048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_2
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 5019
+        width: 457
+        height: 648
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e679a6c2e02dc42a5bb84606751343
+      internalID: -1311280608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_3
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 5019
+        width: 457
+        height: 648
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b672e54b632a54681719d419810a6e
+      internalID: -430338996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_4
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 5013
+        width: 460
+        height: 613
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928e84b78d438534795fa873d0a67330
+      internalID: 2091786987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4353
+        width: 459
+        height: 613
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5456612101147a148aa648f4ba39bf8c
+      internalID: -1998699686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_6
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 4342
+        width: 459
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa036b79923aaf4d89d016c53695535
+      internalID: 958218627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_7
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 4342
+        width: 460
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb599571404a42f47b394f24d1fa3170
+      internalID: -1229723468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_8
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 4357
+        width: 460
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2d91a2ad76bf04e8dedc9079501906
+      internalID: -1250644792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_9
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 4357
+        width: 460
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231bd879b5ce53545b391c72bc7b00fa
+      internalID: 93390403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3705
+        width: 460
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a951830bd824b644e9d0cf06f08e9287
+      internalID: 1179419366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_11
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3705
+        width: 460
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d4b65eb035df9449f19aaef9aa25a4
+      internalID: -2040303105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_12
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 3708
+        width: 457
+        height: 623
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1ceb9306f68c34f8e6cd6346e4250e
+      internalID: 326353749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_13
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 3708
+        width: 459
+        height: 623
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c40eae034985849bdae11bcb5b7cf9
+      internalID: -2071206408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_14
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 3694
+        width: 459
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31784324a76489646ba2504d72807b3f
+      internalID: 1503841972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 3034
+        width: 460
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d26c7f39f431ec4eb6ce09e7c073246
+      internalID: -421997851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_16
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 3034
+        width: 459
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ae910cd0594d344ab64441c274c6a6
+      internalID: -614145732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_17
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 3034
+        width: 459
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f439478f255ae247a63e23539f6d368
+      internalID: 474761850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_18
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 3031
+        width: 457
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097d1cdc6b671544b9928c81941ff9ac
+      internalID: -582113672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_19
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 3031
+        width: 460
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c01e1fc9eb0e5345a87cf472444aa67
+      internalID: -436963516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2371
+        width: 460
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e7da994870ee41899e21118ddbd42
+      internalID: 141312182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_21
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2371
+        width: 460
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b0ee2e6cc75f94bbfac45d4be93867
+      internalID: 571006428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_22
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 2371
+        width: 459
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d1d79a98d2de6428986f3a1fc8e19a
+      internalID: -1363742999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_23
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 2371
+        width: 457
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fc8fef95466c44786f2fc50ae8b53b
+      internalID: 1876729573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_24
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 2371
+        width: 460
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b917b7a98d120b4a83fa5e7371ca5bc
+      internalID: 1513709913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1712
+        width: 460
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7107ebc37643f544592938bd18b4c10d
+      internalID: -336063692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_26
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1712
+        width: 460
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f07b3f53920a148a1a1bac9050a3ff
+      internalID: -214171516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_27
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1712
+        width: 459
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f53b95eb85a4c4fae7eb1881d9db1b
+      internalID: 912169873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_28
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1712
+        width: 457
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3f0d85cdc2fd34e8fc567b9343994c
+      internalID: 331072218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_29
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 1712
+        width: 460
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b90b60a6ebe4b54face6263834cadff
+      internalID: 63287304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_30
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1052
+        width: 460
+        height: 625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e586379b2e44f044917995d61e128a8
+      internalID: -1443534711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_31
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1052
+        width: 460
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5da5c47bc20ba48a186b7a98f57512
+      internalID: -2083548579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_32
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1052
+        width: 459
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc67f280def01547a126dd7446aaef4
+      internalID: -989669567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_33
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1052
+        width: 457
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda81a88e64481e4da4af7f93083206b
+      internalID: 720049165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_34
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 1052
+        width: 460
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00611955de2e674f93b57d70036210c
+      internalID: 203891853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_entrance_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 392
+        width: 460
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6d60fd54368c94ebcc0e4346a8d213
+      internalID: 713753473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 334daecf378036944a47b3b738772092
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      green_entrance_0: 1609780952
+      green_entrance_1: 719655048
+      green_entrance_10: 1179419366
+      green_entrance_11: -2040303105
+      green_entrance_12: 326353749
+      green_entrance_13: -2071206408
+      green_entrance_14: 1503841972
+      green_entrance_15: -421997851
+      green_entrance_16: -614145732
+      green_entrance_17: 474761850
+      green_entrance_18: -582113672
+      green_entrance_19: -436963516
+      green_entrance_2: -1311280608
+      green_entrance_20: 141312182
+      green_entrance_21: 571006428
+      green_entrance_22: -1363742999
+      green_entrance_23: 1876729573
+      green_entrance_24: 1513709913
+      green_entrance_25: -336063692
+      green_entrance_26: -214171516
+      green_entrance_27: 912169873
+      green_entrance_28: 331072218
+      green_entrance_29: 63287304
+      green_entrance_3: -430338996
+      green_entrance_30: -1443534711
+      green_entrance_31: -2083548579
+      green_entrance_32: -989669567
+      green_entrance_33: 720049165
+      green_entrance_34: 203891853
+      green_entrance_35: 713753473
+      green_entrance_4: 2091786987
+      green_entrance_5: -1998699686
+      green_entrance_6: 958218627
+      green_entrance_7: -1229723468
+      green_entrance_8: -1250644792
+      green_entrance_9: 93390403
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

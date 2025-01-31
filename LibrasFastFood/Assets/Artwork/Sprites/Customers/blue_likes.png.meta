@@ -1,0 +1,1691 @@
+fileFormatVersion: 2
+guid: c853cc2590a213c498314232c08cd93e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6764336985781181417
+    second: blue_likes_0
+  - first:
+      213: 1301823243672472298
+    second: blue_likes_1
+  - first:
+      213: 2535233948126314977
+    second: blue_likes_2
+  - first:
+      213: -5988696722563130287
+    second: blue_likes_3
+  - first:
+      213: -3114385633465579153
+    second: blue_likes_4
+  - first:
+      213: 6620052788704819645
+    second: blue_likes_5
+  - first:
+      213: -445442223624063687
+    second: blue_likes_6
+  - first:
+      213: -6400744928369581989
+    second: blue_likes_7
+  - first:
+      213: 4590002639710088026
+    second: blue_likes_8
+  - first:
+      213: -4685495370481709946
+    second: blue_likes_9
+  - first:
+      213: -5285075685188025141
+    second: blue_likes_10
+  - first:
+      213: -7387741884414869756
+    second: blue_likes_11
+  - first:
+      213: -3429194277207923529
+    second: blue_likes_12
+  - first:
+      213: -4169261417940545894
+    second: blue_likes_13
+  - first:
+      213: 3824449683811366792
+    second: blue_likes_14
+  - first:
+      213: -6520447529953466463
+    second: blue_likes_15
+  - first:
+      213: 3731819157625703005
+    second: blue_likes_16
+  - first:
+      213: 456233680572738394
+    second: blue_likes_17
+  - first:
+      213: 3672738691365911925
+    second: blue_likes_18
+  - first:
+      213: 2356988537374343884
+    second: blue_likes_19
+  - first:
+      213: -1678245860669015600
+    second: blue_likes_20
+  - first:
+      213: 7535912118329501214
+    second: blue_likes_21
+  - first:
+      213: 7880794691049328562
+    second: blue_likes_22
+  - first:
+      213: 2964237478057783913
+    second: blue_likes_23
+  - first:
+      213: 4632331104427080402
+    second: blue_likes_24
+  - first:
+      213: 1003735202528603631
+    second: blue_likes_25
+  - first:
+      213: 6419398832492550474
+    second: blue_likes_26
+  - first:
+      213: -8904558248200755750
+    second: blue_likes_27
+  - first:
+      213: -2195449899591016656
+    second: blue_likes_28
+  - first:
+      213: 4133893682744604646
+    second: blue_likes_29
+  - first:
+      213: -4116500606644860978
+    second: blue_likes_30
+  - first:
+      213: 9095182482655654853
+    second: blue_likes_31
+  - first:
+      213: 2835498861968452172
+    second: blue_likes_32
+  - first:
+      213: -8016185599329224751
+    second: blue_likes_33
+  - first:
+      213: 277465640746210238
+    second: blue_likes_34
+  - first:
+      213: -1410821500722064591
+    second: blue_likes_35
+  - first:
+      213: 993381928384089777
+    second: blue_likes_36
+  - first:
+      213: 5541496950080164059
+    second: blue_likes_37
+  - first:
+      213: 5717012734113860727
+    second: blue_likes_38
+  - first:
+      213: -5111165683422637877
+    second: blue_likes_39
+  - first:
+      213: -8360459486010082454
+    second: blue_likes_40
+  - first:
+      213: -7024696942628545073
+    second: blue_likes_41
+  - first:
+      213: -2214289307619071345
+    second: blue_likes_42
+  - first:
+      213: 4337703760552623671
+    second: blue_likes_43
+  - first:
+      213: 4419035513190815464
+    second: blue_likes_44
+  - first:
+      213: -6574679589324786787
+    second: blue_likes_45
+  - first:
+      213: 1646569603900434404
+    second: blue_likes_46
+  - first:
+      213: 1837343112922749423
+    second: blue_likes_47
+  - first:
+      213: 4356063610540056184
+    second: blue_likes_48
+  - first:
+      213: -7289093826187861587
+    second: blue_likes_49
+  - first:
+      213: 5229671272461788210
+    second: blue_likes_50
+  - first:
+      213: 5208315516698894843
+    second: blue_likes_51
+  - first:
+      213: 5218652188850233827
+    second: blue_likes_52
+  - first:
+      213: -2476350807587288044
+    second: blue_likes_53
+  - first:
+      213: -6670600844767544400
+    second: blue_likes_54
+  - first:
+      213: 7726681566548727700
+    second: blue_likes_55
+  - first:
+      213: -342279504998997453
+    second: blue_likes_56
+  - first:
+      213: -8025602176262368770
+    second: blue_likes_57
+  - first:
+      213: 3021986691878928698
+    second: blue_likes_58
+  - first:
+      213: 3070742184926098910
+    second: blue_likes_59
+  - first:
+      213: -3373599958325655914
+    second: blue_likes_60
+  - first:
+      213: -9131998764527641551
+    second: blue_likes_61
+  - first:
+      213: -7808135125272511588
+    second: blue_likes_62
+  - first:
+      213: -258867524711494589
+    second: blue_likes_63
+  - first:
+      213: 2853344319555184032
+    second: blue_likes_64
+  - first:
+      213: -7582421955283427766
+    second: blue_likes_65
+  - first:
+      213: -1425549367139314771
+    second: blue_likes_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue_likes_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 6358
+        width: 366
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa591380c1cab09418877bbd652223d5
+      internalID: -526326739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_1
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 6358
+        width: 366
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37b9e5fef7e26442913ae59d3614f2b
+      internalID: 1451558312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6358
+        width: 368
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd06acf3e4629c742a0156089f3cfd9e
+      internalID: 164522698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_3
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 6358
+        width: 368
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b7afb4c967404439f28fa160999670
+      internalID: 104694393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_4
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 6358
+        width: 368
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77522078a304b954899f9486384a6341
+      internalID: -902046302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_5
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 6358
+        width: 366
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b886bf9fbf3657b44a8080b76888afd2
+      internalID: -761141562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_6
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 6358
+        width: 373
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44d608a050912b45adeb02f8cabdbe6
+      internalID: -238493493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_7
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 6358
+        width: 372
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cabb97274be0c144a5a665a57276295
+      internalID: -131848349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5657
+        width: 375
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29899ad72bac58d41a102f90b9f1b495
+      internalID: 414302878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_9
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 5657
+        width: 373
+        height: 525
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef2a8985ef4ee94eb6537e6a541e369
+      internalID: 1291519530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5657
+        width: 368
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8da92c15c15e774aa0def88c957751d
+      internalID: -948837932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_11
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 5657
+        width: 367
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4014750ab1923a043ac057e2788c60c0
+      internalID: -923194937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_12
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 5657
+        width: 372
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b579d4b7fe5fa4eb051b907b3eba3e
+      internalID: 1162182706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_13
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 5657
+        width: 369
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f155227c47b972b439a421d5747d52f8
+      internalID: 804022863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_14
+      rect:
+        serializedVersion: 2
+        x: 2948
+        y: 5657
+        width: 366
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34ad4a4cd94e834cb52d73c88a52b87
+      internalID: 661369489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_15
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 5657
+        width: 369
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9216b385b507f2343b06802c578cbb2b
+      internalID: 1709803764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4960
+        width: 370
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab15beb1940ea240ae421b5b66843c6
+      internalID: 1871854867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4960
+        width: 369
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19607fab2a2e1f3488a35803abc206b6
+      internalID: 1158495237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4960
+        width: 366
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd5d70e73587b444b3d8a28892137db
+      internalID: -1835206697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_19
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 4960
+        width: 368
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c482fb839ad7d7043839ab0275f05224
+      internalID: 1192192541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_20
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 4960
+        width: 369
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa9232fe8f57d7449f0857003991f4f
+      internalID: 400921715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_21
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 4960
+        width: 366
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6d70d9ff262d642806308cb79f7542
+      internalID: 78311528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_22
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 4960
+        width: 368
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46242698fd118b74bb922efc7a655dd0
+      internalID: -630474685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_23
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 4960
+        width: 369
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc0825e4fd9e1149b81554e73127f1a
+      internalID: 1398502500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4260
+        width: 370
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8436f1f204daf748ae88c91c195a755
+      internalID: 496844160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4261
+        width: 369
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801e87d19094040478d527be4d32ad64
+      internalID: -1121310154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4260
+        width: 366
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04a0d6e4a4be5b4e8f3431badcba0b8
+      internalID: 438174327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_27
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 4260
+        width: 369
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f85fa8b89b8e11409bd62637f5bff07
+      internalID: -2023443382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_28
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 4261
+        width: 369
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85aa72182f955b4292665e254b6a127
+      internalID: 2054269980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_29
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 4261
+        width: 366
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0891ef3045b5bb047bb11cd5f09b3e22
+      internalID: 126656600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_30
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 4260
+        width: 369
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e2a2ec55a72b46a0600c54007e5cb
+      internalID: -1596268797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_31
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 4260
+        width: 369
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36676b57458cb284294745eee725dc8f
+      internalID: -2107291745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_37
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3561
+        width: 370
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a3893aba7ef47409bb974e4ee5eff8
+      internalID: -1829303856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_38
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3561
+        width: 369
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbe6448a3a788642b5a0991be358a79
+      internalID: 2016450908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_39
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3561
+        width: 366
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6776f6dbf1bf6114d82786e2b6321a83
+      internalID: -1205472373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_40
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 3561
+        width: 369
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1220aa2cae5aa94480dc8f1f76fbdbc
+      internalID: -1134104140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_41
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 3561
+        width: 403
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b96bb06ddd26c64ea751191aab91787
+      internalID: 253154347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_42
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 3561
+        width: 420
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dc7b021ad40a2468501ae63f6b4d61
+      internalID: 321047181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_43
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 3562
+        width: 424
+        height: 648
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6a4db819765d14d983fe52ec22b5a5
+      internalID: -1277071785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_44
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 3562
+        width: 431
+        height: 671
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8447b31324255b943af1be8e92a8d7ee
+      internalID: 161130212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_54
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2864
+        width: 432
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a93560f806112e49bd387f6e23d7c92
+      internalID: -272791210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_55
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2864
+        width: 431
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bb8c07ad3e93e43a51af9a0085406d
+      internalID: 255714069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_56
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 2864
+        width: 437
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3587a9b7040c525499da488a55376726
+      internalID: -2086140097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_57
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 2864
+        width: 440
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588ae44e4d98d0d40ae20605a1cf40ad
+      internalID: -298161561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_58
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2864
+        width: 449
+        height: 696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ff85cb690bb7a4d8d0f96e78a0401a
+      internalID: 1040018365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_59
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2864
+        width: 373
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e7a0f1701c83419e1f669072f73e3
+      internalID: -1338948020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_60
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 2864
+        width: 373
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07462dd90babed74cb332878b0a7bfae
+      internalID: 1201030535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_61
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 2864
+        width: 373
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121a1cb91cf229c49a22e278bc97433c
+      internalID: -72100838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2163
+        width: 373
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50d8b6a8190d8244b1c030620e792c4
+      internalID: 142741053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_73
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2163
+        width: 372
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7594e78850a94ab3471b06d1ce40a
+      internalID: -1823444237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_74
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 2163
+        width: 373
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65f6439cb94d7944b4fc4ebf522e6be
+      internalID: -799076316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_75
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 2163
+        width: 372
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42520db427fc10f42bd518224e89a465
+      internalID: 1478707912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_76
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 2163
+        width: 372
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29de6dbc973ab74b8d38f0a0644073d
+      internalID: 1003044082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_77
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 2163
+        width: 373
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d547918dea40046bc9fd270056262b
+      internalID: -2062670178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_78
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 2163
+        width: 373
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a7f1f1614d0c9478f0a74967d94beb
+      internalID: -292421442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_79
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 2163
+        width: 372
+        height: 524
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cadd7868b9cd934c9c49e6104c22876
+      internalID: 400949626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_82
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1466
+        width: 373
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de01a649a66c284f803b76f0430fab4
+      internalID: -1424227422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_likes_83
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1466
+        width: 372
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05e0dad61940c047a2e5f18915e15a0
+      internalID: -1562469538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8fbe749fc01b15c489afbe9593c9bc04
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blue_likes_0: -526326739
+      blue_likes_1: 1451558312
+      blue_likes_10: -948837932
+      blue_likes_11: -923194937
+      blue_likes_12: 1162182706
+      blue_likes_13: 804022863
+      blue_likes_14: 661369489
+      blue_likes_15: 1709803764
+      blue_likes_16: 1871854867
+      blue_likes_17: 1158495237
+      blue_likes_18: -1835206697
+      blue_likes_19: 1192192541
+      blue_likes_2: 164522698
+      blue_likes_20: 400921715
+      blue_likes_21: 78311528
+      blue_likes_22: -630474685
+      blue_likes_23: 1398502500
+      blue_likes_24: 496844160
+      blue_likes_25: -1121310154
+      blue_likes_26: 438174327
+      blue_likes_27: -2023443382
+      blue_likes_28: 2054269980
+      blue_likes_29: 126656600
+      blue_likes_3: 104694393
+      blue_likes_30: -1596268797
+      blue_likes_31: -2107291745
+      blue_likes_32: -577867958
+      blue_likes_33: -1083296477
+      blue_likes_34: 2016270747
+      blue_likes_35: 174345736
+      blue_likes_36: 721221800
+      blue_likes_37: -1829303856
+      blue_likes_38: 2016450908
+      blue_likes_39: -1205472373
+      blue_likes_4: -902046302
+      blue_likes_40: -1134104140
+      blue_likes_41: 253154347
+      blue_likes_42: 321047181
+      blue_likes_43: -1277071785
+      blue_likes_44: 161130212
+      blue_likes_45: 1996781163
+      blue_likes_46: 1013213460
+      blue_likes_47: -348698304
+      blue_likes_48: 1881772341
+      blue_likes_49: -778489682
+      blue_likes_5: -761141562
+      blue_likes_50: -471765152
+      blue_likes_51: -1514191884
+      blue_likes_52: 947337078
+      blue_likes_53: -1715077271
+      blue_likes_54: -272791210
+      blue_likes_55: 255714069
+      blue_likes_56: -2086140097
+      blue_likes_57: -298161561
+      blue_likes_58: 1040018365
+      blue_likes_59: -1338948020
+      blue_likes_6: -238493493
+      blue_likes_60: 1201030535
+      blue_likes_61: -72100838
+      blue_likes_62: -1028069194
+      blue_likes_63: -1626896677
+      blue_likes_64: 128845698
+      blue_likes_65: -796570669
+      blue_likes_66: -1724126178
+      blue_likes_67: 1510450324
+      blue_likes_68: -252765920
+      blue_likes_69: 1904854451
+      blue_likes_7: -131848349
+      blue_likes_70: -308119184
+      blue_likes_71: 1374980006
+      blue_likes_72: 142741053
+      blue_likes_73: -1823444237
+      blue_likes_74: -799076316
+      blue_likes_75: 1478707912
+      blue_likes_76: 1003044082
+      blue_likes_77: -2062670178
+      blue_likes_78: -292421442
+      blue_likes_79: 400949626
+      blue_likes_8: 414302878
+      blue_likes_80: -293174791
+      blue_likes_81: -944649231
+      blue_likes_82: -1424227422
+      blue_likes_83: -1562469538
+      blue_likes_9: 1291519530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

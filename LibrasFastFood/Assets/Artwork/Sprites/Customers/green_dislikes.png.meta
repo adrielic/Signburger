@@ -1,0 +1,1950 @@
+fileFormatVersion: 2
+guid: 607c832ddad830f46bfe398fa9d97d9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1771661057499628021
+    second: green_dislikes_0
+  - first:
+      213: 7499531648499489499
+    second: green_dislikes_1
+  - first:
+      213: -4513078697752688827
+    second: green_dislikes_2
+  - first:
+      213: 3606776920156617262
+    second: green_dislikes_3
+  - first:
+      213: -8994534155333995737
+    second: green_dislikes_4
+  - first:
+      213: -2233674617816440410
+    second: green_dislikes_5
+  - first:
+      213: 4283685124153351324
+    second: green_dislikes_6
+  - first:
+      213: 6442623051314071369
+    second: green_dislikes_7
+  - first:
+      213: 8018049717613415502
+    second: green_dislikes_8
+  - first:
+      213: -3469455397123321126
+    second: green_dislikes_9
+  - first:
+      213: -1707488641068003719
+    second: green_dislikes_10
+  - first:
+      213: -3466444877340317514
+    second: green_dislikes_11
+  - first:
+      213: -7347784753052368771
+    second: green_dislikes_12
+  - first:
+      213: -6275371448884744013
+    second: green_dislikes_13
+  - first:
+      213: 3625040147287025526
+    second: green_dislikes_14
+  - first:
+      213: 7736794943013751232
+    second: green_dislikes_15
+  - first:
+      213: -5395221529380619609
+    second: green_dislikes_16
+  - first:
+      213: -785380487420480147
+    second: green_dislikes_17
+  - first:
+      213: -8399833441203105521
+    second: green_dislikes_18
+  - first:
+      213: -1446625675108260341
+    second: green_dislikes_19
+  - first:
+      213: -3772534866788140624
+    second: green_dislikes_20
+  - first:
+      213: -8178253433909517600
+    second: green_dislikes_21
+  - first:
+      213: 2048988513588542809
+    second: green_dislikes_22
+  - first:
+      213: 1967849105181572183
+    second: green_dislikes_23
+  - first:
+      213: -6616060435990287264
+    second: green_dislikes_24
+  - first:
+      213: -4866410984821513716
+    second: green_dislikes_25
+  - first:
+      213: -6586182230897039560
+    second: green_dislikes_26
+  - first:
+      213: 5277877125405521159
+    second: green_dislikes_27
+  - first:
+      213: -6858587814709585687
+    second: green_dislikes_28
+  - first:
+      213: -5084449574966477147
+    second: green_dislikes_29
+  - first:
+      213: -791242768312246154
+    second: green_dislikes_30
+  - first:
+      213: 1748182479632283276
+    second: green_dislikes_31
+  - first:
+      213: 8496652233088810600
+    second: green_dislikes_32
+  - first:
+      213: 6486751744023962293
+    second: green_dislikes_33
+  - first:
+      213: -28891687375079667
+    second: green_dislikes_34
+  - first:
+      213: -8270408487570382277
+    second: green_dislikes_35
+  - first:
+      213: 2130131929992874341
+    second: green_dislikes_36
+  - first:
+      213: -521764464558528964
+    second: green_dislikes_37
+  - first:
+      213: 1442392468118632767
+    second: green_dislikes_38
+  - first:
+      213: -8515853306601753256
+    second: green_dislikes_39
+  - first:
+      213: -4114249321862498016
+    second: green_dislikes_40
+  - first:
+      213: -2888547743156141624
+    second: green_dislikes_41
+  - first:
+      213: 518141504169483432
+    second: green_dislikes_42
+  - first:
+      213: -631115392761975497
+    second: green_dislikes_43
+  - first:
+      213: -7402350026272467144
+    second: green_dislikes_44
+  - first:
+      213: -6632605439463903652
+    second: green_dislikes_45
+  - first:
+      213: 1011487343066939878
+    second: green_dislikes_46
+  - first:
+      213: 5085007042201676865
+    second: green_dislikes_47
+  - first:
+      213: -5273368930246460737
+    second: green_dislikes_48
+  - first:
+      213: 6603005070205336365
+    second: green_dislikes_49
+  - first:
+      213: 4936281910331958980
+    second: green_dislikes_50
+  - first:
+      213: -773808369571933879
+    second: green_dislikes_51
+  - first:
+      213: -5875879102269797444
+    second: green_dislikes_52
+  - first:
+      213: -5453508911159949919
+    second: green_dislikes_53
+  - first:
+      213: -5443337652420675603
+    second: green_dislikes_54
+  - first:
+      213: -5304844435009652465
+    second: green_dislikes_55
+  - first:
+      213: -1142207395045344268
+    second: green_dislikes_56
+  - first:
+      213: -8004394635226348448
+    second: green_dislikes_57
+  - first:
+      213: -565872340065049096
+    second: green_dislikes_58
+  - first:
+      213: 8071745555287468460
+    second: green_dislikes_59
+  - first:
+      213: -744612218575917014
+    second: green_dislikes_60
+  - first:
+      213: 5939244007000400683
+    second: green_dislikes_61
+  - first:
+      213: -4935348273416522194
+    second: green_dislikes_62
+  - first:
+      213: 9024607275255276645
+    second: green_dislikes_63
+  - first:
+      213: -2135009497434332301
+    second: green_dislikes_64
+  - first:
+      213: 1630850495578805925
+    second: green_dislikes_65
+  - first:
+      213: -3842874870388639215
+    second: green_dislikes_66
+  - first:
+      213: -2577391929426523712
+    second: green_dislikes_67
+  - first:
+      213: -3757255022956898992
+    second: green_dislikes_68
+  - first:
+      213: -7363196993994584363
+    second: green_dislikes_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green_dislikes_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6451
+        width: 461
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5b25ff77d270449a0a6d5f8031d42a
+      internalID: -1918965491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 6451
+        width: 459
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fb0028b23e3374fb4a2e7471cd97a2
+      internalID: -2093462833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_2
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 6451
+        width: 462
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3659207a0270984db18b3551685449b
+      internalID: 1471165091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_3
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 6451
+        width: 460
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13fd25a6d1bd664285a46e5e505164c
+      internalID: 963254009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_4
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 6451
+        width: 459
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62bfd53fd5d4ab4396aaaa5fc09efd0
+      internalID: 366512545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_5
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 6451
+        width: 462
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d95a87ed3fd624da62f64348a95709
+      internalID: 1836700669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_6
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 6451
+        width: 460
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7650580bf93785f488237ceec0e8b3a5
+      internalID: -785320800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_7
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 6451
+        width: 462
+        height: 587
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596c2286f1a71d1499368ce9ff84b51f
+      internalID: -837546212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5847
+        width: 459
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8739691ec769d8845830b39955f08d5c
+      internalID: 335052424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_9
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 5847
+        width: 462
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2982c02f175dd1548bff0c6ff4e398d4
+      internalID: -305407756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_10
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 5847
+        width: 463
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578800e9f79a35441aeeda08b9bbbbee
+      internalID: 215725360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_11
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 5847
+        width: 460
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb51762ef43a9814eae5ad4f58f2de7c
+      internalID: -1292233217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_12
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 5847
+        width: 459
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b5b8e99e0c4bd4fbf212ec200b0e77
+      internalID: 1353507343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_13
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 5847
+        width: 462
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed1e300bc658764c8bd2a320ecad3b0
+      internalID: -1364498408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_14
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 5847
+        width: 459
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb60fed1f3c537489690cd3d74edb26
+      internalID: -1642627951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_15
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 5847
+        width: 462
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effe049fd11efed4780929ae60a3e196
+      internalID: -319211170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5239
+        width: 461
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fff7c9ce14f3ef45a28993af4d13571
+      internalID: -1961213022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_17
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 5239
+        width: 459
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366d523b85e364645b0ed35732605b8e
+      internalID: 660746765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_18
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 5239
+        width: 462
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9772df0e40ce14bb4cd9a181fd92a7
+      internalID: -1305811621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_19
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 5239
+        width: 459
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a901c449c2bd04428ee5ebd9846539c
+      internalID: 1579029474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_20
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 5239
+        width: 459
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0e09c55f78431478639255998737ac
+      internalID: 1212567525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_21
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 5239
+        width: 462
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8e7515ee51bdc43bbe6e65f8c1ead9
+      internalID: -804391465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_22
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 5239
+        width: 459
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfaf0435e38993418e732c6f120f722
+      internalID: -1023079279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_23
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 5239
+        width: 462
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cc9e53ce662314ab7cd877cc32ce0d
+      internalID: 166699154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4635
+        width: 462
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c7c80240fe33148a7dc4442a64dbb9
+      internalID: 401666453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_25
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4635
+        width: 459
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9da1d8df36084b8c82a68a0859830
+      internalID: -831830483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_26
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4635
+        width: 462
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ae280a0dabac7489fd695326f0e2f9
+      internalID: -291823593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_27
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 4635
+        width: 459
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d611a2d05491c4b866c145ad8364cf
+      internalID: 952647397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_28
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 4635
+        width: 459
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f5f57f9dcc7dc4a84b979408b75141
+      internalID: -1701358757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_29
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 4028
+        width: 462
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b24a50d99262ee4a80da2d4e759cca8
+      internalID: -139441597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_30
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 4635
+        width: 462
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faba6fb9ac2d1346bea37325f1b1d08
+      internalID: -233102200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_31
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 4028
+        width: 460
+        height: 611
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde2bf5840129ce4e8268d540e7739e1
+      internalID: -117561407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_32
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 4635
+        width: 459
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab68874ab67f8134bb04988becea729e
+      internalID: 318463144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_33
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 4635
+        width: 462
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2af2df73102d344fafc6bb83f94815c
+      internalID: 865821280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_34
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4028
+        width: 461
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22dec3c4a706f2b4898d5e809762755b
+      internalID: 1586977793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_35
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 4028
+        width: 459
+        height: 564
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be3a6a8cc6bec4d95a0a640c5dd662
+      internalID: 2054309650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_36
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 4028
+        width: 462
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206973a5074991541861d95e511a42e7
+      internalID: -207591918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_37
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 4028
+        width: 459
+        height: 565
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05581d00f1c2b3846a15538c4d5fe3f8
+      internalID: -1740852747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_38
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 4028
+        width: 459
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fdae6808b9fe24a92120d2450adcec
+      internalID: -1389475402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_39
+      rect:
+        serializedVersion: 2
+        x: 3317
+        y: 4026
+        width: 461
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277e4a77e9c78294abffa03edb495227
+      internalID: -714922149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_40
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 3420
+        width: 459
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb14c6185ff2053458731404820aaffc
+      internalID: 1696402594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_41
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 3420
+        width: 462
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb2b4b81b3d76d4987a379b3ad407fb
+      internalID: -1791152733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_42
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 3420
+        width: 461
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74732ecfdf64dff40bcbbe3596e3972a
+      internalID: -309976081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_43
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 3420
+        width: 461
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a231bf4986a424fa5054cb293ace6e
+      internalID: -1780130968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_44
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 3420
+        width: 459
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab793c76d64bd1d4689ebd0557e90bdd
+      internalID: 410269540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_45
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 3420
+        width: 462
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871b098d94bb2f049a1aaa4aad77e5c6
+      internalID: -1466081410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_46
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 3420
+        width: 459
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fd4724cc9e30b4c82de5650b878f24
+      internalID: -995057630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_47
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 3420
+        width: 459
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc09d1c8dd02a0b4c8108675f52adb80
+      internalID: 2082952279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2813
+        width: 462
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999316e67addc3540bd0fd04adc51881
+      internalID: 649734552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_49
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2814
+        width: 459
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a45b768c70af4e879ef3dcd3f47f6
+      internalID: 1388397330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_50
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2813
+        width: 461
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193bc06c091335343893b18bbb4ec549
+      internalID: -1669885351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_51
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 2814
+        width: 461
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20ede704263d1847abdde0961a593a7
+      internalID: -1554433472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_52
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2814
+        width: 459
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f1454d3d0d7554a88195ad768a742d
+      internalID: -119550140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_53
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 2813
+        width: 462
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b7a8ac018200547b0d3c2f07f55406
+      internalID: -1186012231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_54
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 2816
+        width: 459
+        height: 600
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636727879c6a94e46b70de9f21e266f4
+      internalID: 764705931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_55
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 2813
+        width: 459
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74c2d50fc7e72649a56e3657df449b4
+      internalID: -1503584458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_56
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2208
+        width: 462
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef539d2abc1256841ae39cf54c9d6b19
+      internalID: -333862260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_57
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2208
+        width: 459
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96efd32a8d58704d8e498131eda6114
+      internalID: 1447140681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_58
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2208
+        width: 461
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb8087ae63a1b54a9c9837ed8658719
+      internalID: -2105596480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_59
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 2208
+        width: 461
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5b9124df2788a4fa48914d04c4cd28
+      internalID: 93538162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_60
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 2208
+        width: 459
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeb48e5a9b65d048b8f76a637baf88c
+      internalID: -1625217743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_61
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 2208
+        width: 462
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d9022ebfee42448918c4d5d475d2bb
+      internalID: -1030153136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_62
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 2208
+        width: 459
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc1b0526b6639d46b0c23e2d238657d
+      internalID: -995162378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_63
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 2208
+        width: 459
+        height: 601
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b1cde1a744da645947e74a152e4c41
+      internalID: -2002574138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_64
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1601
+        width: 462
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c35a61bf9872df49b3e3981e2912492
+      internalID: 1304721799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_65
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1601
+        width: 459
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7d920b202fead4bb680ce83c13cf57
+      internalID: -1200759355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_66
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1601
+        width: 461
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbb8f7bce89dca48ad02115e0bba652
+      internalID: 1282551411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_67
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1601
+        width: 461
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a071336dd7112824ab9db67e033e4afd
+      internalID: -1557439099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_68
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1601
+        width: 459
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8f6b887ea816641b2ffbcb06703675
+      internalID: 973289462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_dislikes_69
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 1601
+        width: 462
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075ac566893b4e4cacf60225df9c8fa
+      internalID: 845845497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d9fa301b303400d4a94f538ece38e429
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      green_dislikes_0: -1918965491
+      green_dislikes_1: -2093462833
+      green_dislikes_10: 215725360
+      green_dislikes_11: -1292233217
+      green_dislikes_12: 1353507343
+      green_dislikes_13: -1364498408
+      green_dislikes_14: -1642627951
+      green_dislikes_15: -319211170
+      green_dislikes_16: -1961213022
+      green_dislikes_17: 660746765
+      green_dislikes_18: -1305811621
+      green_dislikes_19: 1579029474
+      green_dislikes_2: 1471165091
+      green_dislikes_20: 1212567525
+      green_dislikes_21: -804391465
+      green_dislikes_22: -1023079279
+      green_dislikes_23: 166699154
+      green_dislikes_24: 401666453
+      green_dislikes_25: -831830483
+      green_dislikes_26: -291823593
+      green_dislikes_27: 952647397
+      green_dislikes_28: -1701358757
+      green_dislikes_29: -139441597
+      green_dislikes_3: 963254009
+      green_dislikes_30: -233102200
+      green_dislikes_31: -117561407
+      green_dislikes_32: 318463144
+      green_dislikes_33: 865821280
+      green_dislikes_34: 1586977793
+      green_dislikes_35: 2054309650
+      green_dislikes_36: -207591918
+      green_dislikes_37: -1740852747
+      green_dislikes_38: -1389475402
+      green_dislikes_39: -714922149
+      green_dislikes_4: 366512545
+      green_dislikes_40: 1696402594
+      green_dislikes_41: -1791152733
+      green_dislikes_42: -309976081
+      green_dislikes_43: -1780130968
+      green_dislikes_44: 410269540
+      green_dislikes_45: -1466081410
+      green_dislikes_46: -995057630
+      green_dislikes_47: 2082952279
+      green_dislikes_48: 649734552
+      green_dislikes_49: 1388397330
+      green_dislikes_5: 1836700669
+      green_dislikes_50: -1669885351
+      green_dislikes_51: -1554433472
+      green_dislikes_52: -119550140
+      green_dislikes_53: -1186012231
+      green_dislikes_54: 764705931
+      green_dislikes_55: -1503584458
+      green_dislikes_56: -333862260
+      green_dislikes_57: 1447140681
+      green_dislikes_58: -2105596480
+      green_dislikes_59: 93538162
+      green_dislikes_6: -785320800
+      green_dislikes_60: -1625217743
+      green_dislikes_61: -1030153136
+      green_dislikes_62: -995162378
+      green_dislikes_63: -2002574138
+      green_dislikes_64: 1304721799
+      green_dislikes_65: -1200759355
+      green_dislikes_66: 1282551411
+      green_dislikes_67: -1557439099
+      green_dislikes_68: 973289462
+      green_dislikes_69: 845845497
+      green_dislikes_7: -837546212
+      green_dislikes_8: 335052424
+      green_dislikes_9: -305407756
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

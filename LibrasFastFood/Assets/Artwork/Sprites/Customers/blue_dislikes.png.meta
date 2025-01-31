@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 5b2541e33b788264f911cc3b4e53a40c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2814203659382153432
+    second: blue_dislikes_0
+  - first:
+      213: -2214102727968197963
+    second: blue_dislikes_1
+  - first:
+      213: -5843311479494211268
+    second: blue_dislikes_2
+  - first:
+      213: -1388868669848425018
+    second: blue_dislikes_3
+  - first:
+      213: 5905250875013290102
+    second: blue_dislikes_4
+  - first:
+      213: -325689918639467928
+    second: blue_dislikes_5
+  - first:
+      213: -4636469786874985614
+    second: blue_dislikes_6
+  - first:
+      213: -5798114426143492425
+    second: blue_dislikes_7
+  - first:
+      213: -1058725157505038671
+    second: blue_dislikes_8
+  - first:
+      213: -6914786732046756497
+    second: blue_dislikes_9
+  - first:
+      213: -244092829431983161
+    second: blue_dislikes_10
+  - first:
+      213: -6360136971374924918
+    second: blue_dislikes_11
+  - first:
+      213: -6423624572545456287
+    second: blue_dislikes_12
+  - first:
+      213: 8331286679584778438
+    second: blue_dislikes_13
+  - first:
+      213: -184239057212961631
+    second: blue_dislikes_14
+  - first:
+      213: 336691299049447279
+    second: blue_dislikes_15
+  - first:
+      213: 7612236403911056636
+    second: blue_dislikes_16
+  - first:
+      213: -2179962196160027834
+    second: blue_dislikes_17
+  - first:
+      213: 7441365782053511221
+    second: blue_dislikes_18
+  - first:
+      213: 6531367901549910417
+    second: blue_dislikes_19
+  - first:
+      213: 6260184370555376116
+    second: blue_dislikes_20
+  - first:
+      213: 6214915304960551596
+    second: blue_dislikes_21
+  - first:
+      213: 5965960588687083336
+    second: blue_dislikes_22
+  - first:
+      213: -7879626932735856837
+    second: blue_dislikes_23
+  - first:
+      213: -5839239717805705316
+    second: blue_dislikes_24
+  - first:
+      213: 3162580569718118326
+    second: blue_dislikes_25
+  - first:
+      213: 1857208158016609935
+    second: blue_dislikes_26
+  - first:
+      213: 7855166387387743274
+    second: blue_dislikes_27
+  - first:
+      213: -193276582702359166
+    second: blue_dislikes_28
+  - first:
+      213: -3315975858520838868
+    second: blue_dislikes_29
+  - first:
+      213: -5290682908447339139
+    second: blue_dislikes_30
+  - first:
+      213: -4388634109778498164
+    second: blue_dislikes_31
+  - first:
+      213: -4169430999928326750
+    second: blue_dislikes_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blue_dislikes_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2636
+        width: 364
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff74ae5a536034e4882b86964d9a08e8
+      internalID: -1478326630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2636
+        width: 364
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5f3d1944028bc42b23c45ec433eb51
+      internalID: 421385682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_2
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2636
+        width: 364
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b46222efc8b4d43845e7781c9236ef
+      internalID: 228835655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_3
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2636
+        width: 368
+        height: 534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f5cce113438e645a91a29b20a48b45
+      internalID: -1909607995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_4
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 2636
+        width: 372
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637384d2e75adab4984274802c31325e
+      internalID: 128687863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_5
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 2636
+        width: 364
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2a6c7e812a9c04581d0e7b1556ef9f
+      internalID: 139937171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_6
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 2636
+        width: 368
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6ea6c833b6e814fa3fea6b482b206c
+      internalID: 1162519429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_7
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 2636
+        width: 364
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b683f76d709af224ca3b7ca70c28be50
+      internalID: 1891881428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_8
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 2636
+        width: 366
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ae043328b27a54987ab891d8f5d509
+      internalID: 917941813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_9
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 2636
+        width: 366
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222786235dcd9e349bc0f957eb2b606b
+      internalID: 164160108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2058
+        width: 366
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bafc7bba24797f4ea7577f891f48eea
+      internalID: -558304875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2058
+        width: 366
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b84c9b1c424cd04b84d47dd0ec04314
+      internalID: -1270025171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_12
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2058
+        width: 366
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec976bc66861c58479ad28f09fae2b1e
+      internalID: 1459813378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_13
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 2058
+        width: 366
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      physicsShape:
+      - - {x: 0, y: -580.5}
+        - {x: 407.5, y: 0}
+        - {x: 0, y: 580.5}
+        - {x: -407.5, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15185b816aef7b046aeadf065db4e1c0
+      internalID: -1420597680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_14
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 2058
+        width: 366
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f5ae3fb770fd04dafa3ff84cc1a1b3
+      internalID: -244566517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_15
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 2058
+        width: 366
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4024381fea571f24c840673a06445b5c
+      internalID: 986773902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_16
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 2058
+        width: 366
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f42c918195fbf7459cee9cef7608d52
+      internalID: -1195004208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_17
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 2058
+        width: 366
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea34bb4590efbd94e95f385689628d88
+      internalID: 1552779552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_18
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 2058
+        width: 366
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71921f3228a4e84b88c37c89923e128
+      internalID: -275612204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_19
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 2058
+        width: 366
+        height: 514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16809a06dad74ae4a9349182f071db56
+      internalID: -1283701193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1479
+        width: 366
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fe90c5992892145954b8b107c5cfaa
+      internalID: -1936117052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_21
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1479
+        width: 366
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0acca9ac789ed9458edab3b8b37d3df
+      internalID: -1394451223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_22
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1479
+        width: 366
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1172d9ee3643c2e4d922482fe6c23c97
+      internalID: 249616529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_23
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1479
+        width: 366
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ca080e1e41f3a449fc873c3ecd249b
+      internalID: -148550291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_24
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1479
+        width: 366
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5d6f321147a874ab34880478e6e184
+      internalID: -1525489673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_25
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 1479
+        width: 366
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba16c8fd65574a44b198380b0c922b7
+      internalID: 305842127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_26
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1479
+        width: 366
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a15b939cddc9c54983a52c59606e7b3
+      internalID: -154939672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_27
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 1479
+        width: 366
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06ab7f50de191d43b7d8fbe3f783b48
+      internalID: 2038266236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_28
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1479
+        width: 374
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a905e1633e5ba64792e7209abefe2d5
+      internalID: 1476813117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_29
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 1479
+        width: 366
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc37dbf83ff8dc4e95f90f02f165919
+      internalID: -390468003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 899
+        width: 368
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ebc60d71e0d664eb9949067c2e1f77
+      internalID: 1128382354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_31
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 899
+        width: 364
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d71fbee3e619f24694e894736849e48
+      internalID: 1622237208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blue_dislikes_32
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 899
+        width: 364
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c7b7cd81a3d56469cbb8f81168a5cb
+      internalID: -1270340707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 571c0f3815008d6479a3e6086f9e9511
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blue_dislikes_0: -1478326630
+      blue_dislikes_1: 421385682
+      blue_dislikes_10: -558304875
+      blue_dislikes_11: -1270025171
+      blue_dislikes_12: 1459813378
+      blue_dislikes_13: -1420597680
+      blue_dislikes_14: -244566517
+      blue_dislikes_15: 986773902
+      blue_dislikes_16: -1195004208
+      blue_dislikes_17: 1552779552
+      blue_dislikes_18: -275612204
+      blue_dislikes_19: -1283701193
+      blue_dislikes_2: 228835655
+      blue_dislikes_20: -1936117052
+      blue_dislikes_21: -1394451223
+      blue_dislikes_22: 249616529
+      blue_dislikes_23: -148550291
+      blue_dislikes_24: -1525489673
+      blue_dislikes_25: 305842127
+      blue_dislikes_26: -154939672
+      blue_dislikes_27: 2038266236
+      blue_dislikes_28: 1476813117
+      blue_dislikes_29: -390468003
+      blue_dislikes_3: -1909607995
+      blue_dislikes_30: 1128382354
+      blue_dislikes_31: 1622237208
+      blue_dislikes_32: -1270340707
+      blue_dislikes_4: 128687863
+      blue_dislikes_5: 139937171
+      blue_dislikes_6: 1162519429
+      blue_dislikes_7: 1891881428
+      blue_dislikes_8: 917941813
+      blue_dislikes_9: 164160108
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
